@@ -1,0 +1,3145 @@
+# Copyright (C) 2024 LearnDash
+# This file is distributed under the same license as the LearnDash LMS - Groups Plus plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash LMS - Groups Plus 2.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-groups-"
+"plus\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-22T15:20:39+00:00\n"
+"PO-Revision-Date: 2024-10-25 20:50+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: learndash-groups-plus\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#. translators: Team label.
+#: src/Module/WooCommerce/Organizations.php:823
+#: src/Module/WooCommerce/Organizations_Groups.php:823
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:115
+msgid "\"%s name\" is a required field"
+msgstr "\"%s nombre\" es un campo obligatorio"
+
+#: src/Settings.php:2792
+msgid "%1$s %2$s List"
+msgstr "%1$s %2$s Lista"
+
+#. translators: Team courses package.
+#: src/Module/WooCommerce/Organizations.php:736
+#: src/Module/WooCommerce/Organizations_Groups.php:725
+#: src/Module/WooCommerce/Teams/Product_Single.php:411
+msgid "%1$s %2$s package:"
+msgstr "paquete %1$s %2$s:"
+
+#. translators: Course Title (Course Price/seat).
+#: src/Module/WooCommerce/Teams/Checkout.php:214
+msgid "%1$s (%2$s/seat)"
+msgstr "%1$s (%2$s/asiento)"
+
+#: src/Settings.php:210
+msgid "%1$s and %2$s can see all %3$s and %4$s."
+msgstr "%1$s y %2$s pueden ver todo %3$s y %4$s."
+
+#. translators: team average percentage.
+#: src/Plugin.php:1992
+msgid "%1$s Avg: %2$s%%"
+msgstr "%1$s Promedio: %2$s%%"
+
+#: src/Module/WooCommerce/Seats.php:1317
+msgid "%1$s is required. Please choose a %2$s first."
+msgstr "%1$s es obligatorio. Por favor, elija primero un %2$s."
+
+#: src/Settings.php:149
+msgid "%1$s issue %2$s certificates"
+msgstr "%1$s emiten %2$s certificados"
+
+#: src/Settings.php:776
+msgid "%1$s Last Name and Emails are optional.%2$sRead More...%3$s"
+msgstr ""
+"%1$s El apellido y el correo electrónico son opcionales.%2$sLeer más...%3$s"
+
+#: src/Settings.php:2709
+msgid "%1$s Manage %2$s Modal"
+msgstr "%1$s Gestionar %2$s Modal"
+
+#. translators: team of org name.
+#: src/Plugin.php:3578
+msgid "%1$s of %2$s %3$s %4$s"
+msgstr "%1$s de %2$s %3$s %4$s"
+
+#: src/Settings.php:573
+msgid ""
+"%1$s%2$s%3$s can be assigned to any number of %4$s%5$s%6$s. If they are "
+"%7$s%8$s%9$s of multiple %10$s%11$s%12$s, a drop-down menu will be shown for "
+"them to select any of their %13$s%14$s%15$s, else the menu will not be "
+"present."
+msgstr ""
+"los %1$s%2$s%3$s pueden asignarse a cualquier número de %4$s%5$s%6$s. Si son "
+"%7$s%8$s%9$s de múltiples %10$s%11$s%12$s, se mostrará un menú desplegable "
+"para que seleccionen cualquiera de sus %13$s%14$s%15$s, de lo contrario el "
+"menú no estará presente."
+
+#: src/Settings.php:1655
+msgid ""
+"%1$sConfiguring these global emails will make them the default email for all "
+"%2$s and %3$s and %4$s invitations.%5$sThese emails will be superseded by "
+"%6$s and %7$s welcome emails if each %8$s or %9$s creates their own personal "
+"emails."
+msgstr ""
+"%1$sConfigurar estos correos globales hará que sean los correos por defecto "
+"para todas las invitaciones de %2$s y %3$s y %4$s.%5$sEstos correos serán "
+"sustituidos por los correos de bienvenida de %6$s y %7$s si cada %8$s o %9$s "
+"crea sus propios correos personales."
+
+#. translators: 1$: opening HTML strong tag, 2$: closing HTML strong tag, 3$: opening HTML strong tag, 4$: closing HTML strong tag.
+#: src/Settings.php:253
+msgid ""
+"%1$sExecuted at the bottom of the Settings tab above%2$s, this process will "
+"switch on your %3$sLearnDash LMS > Groups > Settings > Group Hierarchy%4$s "
+"for you if it is not already turned on."
+msgstr ""
+"%1$sEjecutado en la parte inferior de la pestaña Ajustes%2$s, este proceso "
+"activará su %3$sLearnDash LMS > Grupos > Ajustes > Jerarquía de grupos%4$s "
+"si aún no está activado."
+
+#: src/Settings.php:659
+msgid ""
+"%1$sIf the option \"%2$s Use Seats\" from Step 1 is selected%3$s, you will "
+"see the \"Number of %4$s not using seats\" field appear only in Primary %5$s."
+" Enter the number of %6$s that will not consume a seat in the %7$s. Save the "
+"%8$s."
+msgstr ""
+"%1$sSi se selecciona la opción \"%2$s Usan Asientos\" del Paso 1%3$s, verá "
+"que el campo \"Número de %4$s que no usan asientos\" aparece sólo en %5$s "
+"Primarios. Introduzca el número de %6$s que no consumirán asiento en el %7$s."
+" Guarde los %8$s."
+
+#: src/Settings.php:1920
+msgid ""
+"%1$sIf you want to customize the %2$s Detailed Report (located at the bottom "
+"of each %3$s List) template itself%4$s, here are the steps to getting that "
+"set up"
+msgstr ""
+"%1$sSi desea personalizar el %2$s Informe detallado (que se encuentra en la "
+"parte inferior de cada %3$s Lista) plantilla%4$s mismo, aquí están los pasos "
+"para conseguir que configurar"
+
+#: src/Settings.php:1840
+msgid ""
+"%1$sIf you want to customize the /learndash-groups-plus/ template itself%2$s,"
+" here are the steps to getting that set up"
+msgstr ""
+"%1$sSi desea personalizar la plantilla /learndash-groups-plus/%2$s, siga los "
+"pasos que se indican a continuación"
+
+#: src/Settings.php:2024
+msgid ""
+"%1$sIf you want to customize the Team Modals%2$s, here are the steps to "
+"getting that set up."
+msgstr ""
+"%1$sSi desea personalizar los Team Modals%2$s, aquí tiene los pasos para "
+"conseguirlo."
+
+#: src/Settings.php:427
+msgid ""
+"%1$sSet in the Global Email tab above%2$s, this setting lets you create "
+"default %3$s and %4$s welcome email templates so your %5$s and %6$s do not "
+"need to."
+msgstr ""
+"%1$sConfigurado en la pestaña Correo electrónico global más arriba%2$s, este "
+"ajuste le permite crear plantillas de correo electrónico de bienvenida %3$s "
+"y %4$s por defecto para que sus %5$s y %6$s no tengan que hacerlo."
+
+#: src/Settings.php:461
+msgid ""
+"%1$sSet in the Settings tab above%2$s, these settings let you 1) Show the "
+"complete quiz history of %3$s in the detailed %4$s report, and 2) Allow %5$s "
+"and %6$s find all users that have the subscriber and group leader roles in "
+"the system."
+msgstr ""
+"%1$sConfigurados en la pestaña Configuración arriba%2$s, estos ajustes le "
+"permiten 1) Mostrar el historial completo de cuestionarios de %3$s en el "
+"informe detallado de %4$s, y 2) Permitir que %5$s y %6$s encuentren a todos "
+"los usuarios que tienen los roles de suscriptor y líder de grupo en el "
+"sistema."
+
+#: src/Settings.php:387
+msgid ""
+"%1$sSet in the Settings tab above%2$s, this setting enables you to globally "
+"block all %3$s' %4$s access to their course certificate."
+msgstr ""
+"%1$sConfigurado en la pestaña Configuración más arriba%2$s, este ajuste le "
+"permite bloquear globalmente el acceso de todos los %3$s %4$s a su "
+"certificado de curso."
+
+#: src/Settings.php:342
+msgid ""
+"%1$sSet in the Settings tab above%2$s, this setting enables you to not have "
+"to create %3$s %4$s manually, rather Groups Plus addon will be able to use "
+"UnCanny Groups selectively."
+msgstr ""
+"%1$sSet in the Settings tab above%2$s, this setting enables you to not have "
+"to create %3$s %4$s manually, rather Groups Plus addon will be able to use "
+"UnCanny Groups selectively."
+
+#: src/Settings.php:523
+msgid ""
+"%1$sSet in the Settings tab above%2$s, this setting enables you to sell %3$s "
+"and Seats in %4$s. This setting can work along side any other group sales "
+"plugins and does not require using any other plugins beyond LearnDash LMS, "
+"WooCommerce and LearnDash LMS - Groups Plus addon."
+msgstr ""
+"%1$sSet in the Settings tab above%2$s, this setting enables you to sell %3$s "
+"and Seats in %4$s. Esta configuración puede funcionar junto con cualquier "
+"otro plugin de venta de grupos y no requiere el uso de otros plugins más "
+"allá de LearnDash LMS, WooCommerce y LearnDash LMS - Grupos Plus addon."
+
+#: src/Settings.php:488
+msgid ""
+"%1$sSet in the Settings tab above%2$s, this setting lets %3$s and %4$s see "
+"all user that are group leaders (i.e. %5$s) and subscribers (i.e. %6$s) "
+"throughout the platform. These users will be shown in the Add %7$s and Add "
+"%8$s modals when you select the %9$s/%10$s already exists checkboxes."
+msgstr ""
+"%1$sConfigurado en la pestaña Configuración más arriba%2$s, este ajuste "
+"permite a %3$s y %4$s ver todos los usuarios que son líderes de grupo (es "
+"decir, %5$s) y suscriptores (es decir, %6$s) en toda la plataforma. Estos "
+"usuarios se mostrarán en los modales Añadir %7$s y Añadir %8$s cuando "
+"seleccione las casillas %9$s/%10$s ya existe."
+
+#. translators: 1$: opening HTML strong tag, 2$: closing HTML strong tag, 3$: team leaders label, 4$: team label, 5$: team members label.
+#: src/Settings.php:300
+msgid ""
+"%1$sSet in the Settings tab above%2$s, this setting will give you the option "
+"to have %3$s in any %4$s consume %5$s seats."
+msgstr ""
+"%1$sConfigurado en la pestaña Ajustes más arriba%2$s, este ajuste le dará la "
+"opción de que %3$s en cualquier %4$s consuma %5$s plazas."
+
+#: src/Settings.php:1207
+msgid ""
+"%1$sTEST THIS ON YOUR STAGING SITE USING YOUR PAYMENT GATEWAY IN TEST MODE "
+"BEFORE GOING LIVE%2$sThis setting lets you create %3$s product and seat "
+"product. You can also set custom pricing per %4$s for %5$s. %6$s can also "
+"opt-in to selling seat access to their %7$s when they purchase their %8$s. "
+"If %9$s opts-out of selling seat access in their %10$s, their %11$s will not "
+"be listed in the public %12$s product listing.%13$sThese products are able "
+"to be sold as WooCommerce Subscriptions and can also be used within Variable "
+"Products.%14$sYou do not need to create multiple products as the %15$s "
+"product will do everything you need and the Seat product will only see any "
+"%16$s that the %17$s allow them to see."
+msgstr ""
+"%1$sPRUEBE ESTO EN SU SITIO DE STAGING UTILIZANDO SU PASARELA DE PAGO EN "
+"MODO DE PRUEBA ANTES DE ENTRAR EN VIVO%2$sEsta configuración le permite "
+"crear %3$s producto y producto de asiento. También puede establecer precios "
+"personalizados por %4$s para %5$s. los %6$s también pueden optar por vender "
+"el acceso al asiento a sus %7$s cuando compren sus %8$s. Si %9$s opta por no "
+"vender el acceso al asiento en sus %10$s, sus %11$s no aparecerán en el "
+"listado público de productos %12$s.%13$sEstos productos se pueden vender "
+"como suscripciones de WooCommerce y también se pueden utilizar dentro de "
+"productos variables.%14$sNo necesita crear varios productos ya que el "
+"producto %15$s hará todo lo que necesita y el producto Asiento sólo verá los "
+"%16$s que los %17$s le permitan ver."
+
+#. translators: 1$: opening HTML tag, 2$: closing HTML tag.
+#: src/Settings.php:320
+msgid "%1$sThis is set to 0 free seats by default%2$s"
+msgstr "%1$sEstá fijado en 0 plazas libres por defecto%2$s"
+
+#: src/Settings.php:1297
+msgid ""
+"%1$sYou are seeing this setting because you have UnCanny Groups installed in "
+"your site.%2$sPlease refer to your UnCanny Groups > Settings page to learn "
+"about Upgrading Groups before proceeding%3$sAfter selecting this checkbox, "
+"if any of your %4$s are configured in UnCanny Groups, you will not be asked "
+"to set any %5$s Seats in the %6$s.%7$sYou will also not need to manually "
+"create %8$s and assign %9$s users to them.%10$sYou will still be able to "
+"have up to X number of %11$s as %12$s."
+msgstr ""
+"%1$sVe esta configuración porque tiene Grupos de UnCanny instalados en su "
+"sitio.%2$sPor favor, consulte su página Grupos de UnCanny > Configuración "
+"para obtener más información sobre la Actualización de Grupos antes de "
+"continuar%3$sDespués de seleccionar esta casilla de verificación, si alguno "
+"de sus %4$s está configurado en Grupos de UnCanny, no se le pedirá que "
+"establezca ningún %5$s Asientos en los %6$s.%7$sTampoco tendrá que crear "
+"manualmente %8$s y asignarles %9$s usuarios.%10$sAún podrá tener hasta X "
+"número de %11$s como %12$s."
+
+#: src/Settings.php:593
+msgid "%1$sYour administrative users will be able to access all %2$s.%3$s"
+msgstr "%1$sSus usuarios administrativos podrán acceder a todos los %2$s.%3$s"
+
+#: src/Settings.php:2123 src/Settings.php:2164
+msgid "%s Actions"
+msgstr "%s Acciones"
+
+#: src/resources/templates/team-member/add-team-member.php:37
+#: src/resources/templates/team/modal.php:108
+#: src/resources/templates/team/modal.php:561
+msgid "%s already exists?"
+msgstr "¿Ya existe %s?"
+
+#: src/resources/templates/team-member/email-team-member.php:182
+#: src/resources/templates/team/modal.php:386
+msgid "%s Broadcast Email"
+msgstr "%s Correo electrónico de difusión"
+
+#: src/resources/templates/team-member/email-team-member.php:214
+msgid "%s Broadcast Message"
+msgstr "%s Mensaje de difusión"
+
+#: src/Settings.php:3217
+msgid "%s Detailed Report"
+msgstr "%s Informe detallado"
+
+#: src/resources/templates/team/modal.php:164
+#: src/resources/templates/team/modal.php:613
+msgid "%s Email *"
+msgstr "%s Correo electrónico *"
+
+#: src/Settings.php:2658
+msgid "%s Email Modal"
+msgstr "%s Email Modal"
+
+#: src/resources/templates/team/modal.php:144
+#: src/resources/templates/team/modal.php:593
+msgid "%s Firstname *"
+msgstr "%s Nombre *"
+
+#: src/Settings.php:921
+msgid ""
+"%s have an approval / feedback process where their form inputs contribute to "
+"the information related to the assignment submission approval evidence."
+msgstr ""
+"los %s tienen un proceso de aprobación / retroalimentación en el que las "
+"entradas de sus formularios contribuyen a la información relacionada con las "
+"pruebas de aprobación del envío de tareas."
+
+#: src/resources/templates/team-member/email-team-member.php:109
+#: src/resources/templates/team/modal.php:318 src/Settings.php:1669
+#: src/Settings.php:1713
+msgid "%s Invitation Email"
+msgstr "%s Correo electrónico de invitación"
+
+#: src/resources/templates/team/modal.php:150
+#: src/resources/templates/team/modal.php:599
+msgid "%s Lastname *"
+msgstr "%s Apellido *"
+
+#: src/Settings.php:733
+msgid "%s Maintain Themselves"
+msgstr "%s Mantenerse"
+
+#: src/Plugin.php:1970 src/resources/templates/team-member/filter.php:95
+#: src/resources/templates/team-member/filter.php:117
+#: src/resources/templates/team-member/listing.php:20
+#: src/resources/templates/team/listing.php:20
+#: src/resources/templates/team/modal.php:76
+#: src/resources/templates/team/modal.php:645
+msgid "%s Name"
+msgstr "nombre"
+
+#. translators: placeholder: Organization label.
+#. translators: placeholder: Team label.
+#. translators: Team.
+#: src/Module/WooCommerce/Organizations.php:540
+#: src/Module/WooCommerce/Organizations.php:543
+#: src/Module/WooCommerce/Organizations.php:1004
+#: src/Module/WooCommerce/Organizations_Groups.php:528
+#: src/Module/WooCommerce/Organizations_Groups.php:531
+#: src/Module/WooCommerce/Organizations_Groups.php:1001
+#: src/Module/WooCommerce/Seats.php:403 src/Module/WooCommerce/Seats.php:409
+#: src/Module/WooCommerce/Seats.php:498 src/Module/WooCommerce/Seats.php:534
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:267
+#: src/Module/WooCommerce/Teams/Checkout.php:107
+#: src/Module/WooCommerce/Teams/Checkout.php:113
+msgid "%s name"
+msgstr "nombre"
+
+#: src/Plugin.php:1212
+msgid "%s name is required"
+msgstr "%s nombre es obligatorio"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:1129
+#: src/Module/WooCommerce/Organizations_Groups.php:1133
+#: src/Module/WooCommerce/Seats.php:493 src/Module/WooCommerce/Seats.php:528
+msgid "%s name:"
+msgstr "%s nombre:"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:537
+msgid "%s Names"
+msgstr "%s Nombres"
+
+#. translators: placeholder: Course label.
+#. translators: placeholder: Group label.
+#: src/Module/WooCommerce/Organizations.php:973
+#: src/Module/WooCommerce/Organizations_Groups.php:970
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:255
+msgid "%s names"
+msgstr "%s nombres"
+
+#: src/resources/templates/team/groups-plus-report.php:15
+msgid "%s Report"
+msgstr "informe %s"
+
+#: src/Settings.php:3103
+msgid "%s Roster"
+msgstr "%s Lista"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:2140
+#: src/Module/WooCommerce/Seats.php:1369
+msgid "%s seat price"
+msgstr "%s precio del asiento"
+
+#: src/resources/templates/team/listing.php:26
+#: src/resources/templates/team/modal.php:82
+msgid "%s Total"
+msgstr "%s Total"
+
+#: src/Settings.php:112 src/Settings.php:290 src/Settings.php:1052
+msgid "%s use seats"
+msgstr "%s plazas de uso"
+
+#: src/resources/templates/team/modal.php:156
+#: src/resources/templates/team/modal.php:607
+msgid "%s Username *"
+msgstr "%s Nombre de usuario *"
+
+#: src/resources/templates/team-member/email-team-member.php:40
+#: src/resources/templates/team/modal.php:256
+msgid "%s Welcome Email"
+msgstr "%s Correo electrónico de bienvenida"
+
+#. translators: The Course per-Seat Price.
+#. translators: Course Price per-Seat.
+#: src/Module/WooCommerce/Teams/Product_Edit.php:356
+#: src/Module/WooCommerce/Teams/Product_Single.php:483
+msgid "(%s/seat)"
+msgstr "(%s/asiento)"
+
+#: src/resources/templates/team-member/add-team-member.php:49
+#: src/resources/templates/team/modal.php:119
+msgid "-- Choose %s --"
+msgstr "-- Elige %s --"
+
+#. translators: organization.
+#: src/resources/templates/team/header.php:199
+msgid "-- Select %s --"
+msgstr "-- Seleccione %s --"
+
+#: build/resources/blocks/ld-groups-plus/index.js:1
+#: src/resources/blocks/ld-groups-plus/index.js:56
+msgid "[learndash_groups_plus] shortcode output shown here"
+msgstr "el código corto [learndash_groups_plus] se muestra aquí"
+
+#: build/resources/blocks/ld-groups-plus-message-board/index.js:1
+#: src/resources/blocks/ld-groups-plus-message-board/index.js:56
+msgid "[learndash_groups_plus_message_board] shortcode output shown here"
+msgstr "el código corto [learndash_groups_plus_message_board] se muestra aquí"
+
+#: build/resources/blocks/ld-groups-plus-primary-report/index.js:1
+#: src/resources/blocks/ld-groups-plus-primary-report/index.js:56
+msgid "[learndash_groups_plus_primary_report] shortcode output shown here"
+msgstr "[learndash_groups_plus_primary_report] shortcode output mostrado aquí"
+
+#: build/resources/blocks/ld-groups-plus-report/index.js:1
+#: src/resources/blocks/ld-groups-plus-report/index.js:56
+msgid "[learndash_groups_plus_report] shortcode output shown here"
+msgstr "[learndash_groups_plus_report] shortcode output mostrado aquí"
+
+#. translators: Team label.
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:126
+msgid "A %s must be chosen"
+msgstr "Se debe elegir un %s"
+
+#: src/Settings.php:2338
+msgid ""
+"A hook to change the \"Exclude from publicly sold seats\" WooCommerce text "
+"in the product page."
+msgstr ""
+"Un gancho para cambiar el texto de WooCommerce \"Excluir de asientos "
+"vendidos públicamente\" en la página del producto."
+
+#: src/Settings.php:2274
+msgid ""
+"A hook to create your own button after default buttons:%1$sNote: %2$s would "
+"be %3$s %4$s ID (child %5$s of LearnDash)"
+msgstr ""
+"Un gancho para crear tu propio botón después de los botones por defecto:"
+"%1$sNote: %2$s sería %3$s %4$s ID (child %5$s of LearnDash)"
+
+#: src/Settings.php:2248
+msgid ""
+"A hook to create your own button before default buttons:%1$sNote: %2$s would "
+"be %3$s %4$s ID (child %5$s of LearnDash)"
+msgstr ""
+"Un hook para crear tu propio botón antes de los botones por defecto:%1$sNote:"
+" %2$s would be %3$s %4$s ID (child %5$s of LearnDash)"
+
+#: src/Module/WooCommerce/Seats.php:1727
+msgid "A valid product_id must be provided."
+msgstr "Se debe proporcionar un product_id válido."
+
+#: src/resources/templates/team-member/email-team-member.php:244
+#: src/resources/templates/team-member/lesson-listing.php:1087
+#: src/resources/templates/team-member/lesson-listing.php:1285
+#: src/resources/templates/team/modal.php:86
+#: src/resources/templates/team/modal.php:538
+#: src/resources/templates/team/modal.php:678
+msgid "Action"
+msgstr "Acción"
+
+#: src/resources/templates/team/modal.php:208
+#: src/resources/templates/team/modal.php:464
+msgid "Active Courses"
+msgstr "Cursos activos"
+
+#: src/resources/templates/team-member/add-seats.php:71
+msgid "Add"
+msgstr "Añadir"
+
+#: src/resources/templates/team/modal.php:519
+msgid "Add %1$s as %2$s"
+msgstr "Añadir %1$s como %2$s"
+
+#: src/resources/templates/team-member/header.php:106
+#: src/resources/templates/team/modal.php:60
+#: src/resources/templates/team/modal.php:508
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: src/Settings.php:708
+msgid "Add Courses and Leader"
+msgstr "Añadir cursos y líder"
+
+#: src/resources/templates/team-member/add-team-member.php:21
+msgid "Add New %s - Single Entry"
+msgstr "Añadir nuevo %s - Entrada única"
+
+#: src/resources/templates/team-member/add-seats.php:55
+msgid "Add non-recurring cost seat"
+msgstr "Añadir asiento de costes no recurrentes"
+
+#: src/resources/templates/team-member/add-seats.php:62
+msgid "Add recurring cost seat"
+msgstr "Añadir asiento de costes recurrentes"
+
+#: src/resources/templates/team-member/add-seats.php:23
+#: src/resources/templates/team-member/header.php:71
+#: src/resources/templates/team-member/header.php:91 src/Settings.php:639
+msgid "Add Seats"
+msgstr "Añadir asientos"
+
+#: src/Settings.php:1006
+msgid ""
+"Add the Gravity Form to a page and capture the URL of that page. This URL "
+"will be used to configure your %1$s or %2$s."
+msgstr ""
+"Añada el Gravity Form a una página y capture la URL de esa página. Esta URL "
+"se utilizará para configurar su %1$s o %2$s."
+
+#: src/Settings.php:934
+msgid ""
+"Adds color codes to the assignment status buttons for visual action queues."
+msgstr ""
+"Añade códigos de color a los botones de estado de asignación para colas de "
+"acción visuales."
+
+#: src/Settings.php:928
+msgid ""
+"Adds new assignment statuses in the Detailed %s Report indicating the "
+"assignment needs to be graded, resubmitted, or is approved so no further "
+"action is required."
+msgstr ""
+"Añade nuevos estados de tarea en el Informe detallado %s indicando que la "
+"tarea necesita ser calificada, reenviada o está aprobada, por lo que no se "
+"requiere ninguna acción adicional."
+
+#: src/Settings.php:620
+msgid ""
+"After activating this plugin, you have a new page created in your web site. "
+"You can visit this page at: %1$s%2$s%3$s"
+msgstr ""
+"Después de activar este plugin, tendrá una nueva página creada en su sitio "
+"web. Puede visitar esta página en %1$s%2$s%3$s"
+
+#: src/Settings.php:996
+msgid ""
+"After completing your form development, note the field ID numbers and the "
+"Gravity Form ID number. These field IDs and the form ID will be used to "
+"configure your %1$s or %2$s."
+msgstr ""
+"Después de completar el desarrollo de su formulario, anote los números de ID "
+"de campo y el número de ID de Gravity Form. Estos ID de campo y el ID de "
+"formulario se utilizarán para configurar su %1$s o %2$s."
+
+#: src/Settings.php:396
+msgid ""
+"After selecting this checkbox, all %1$s' %2$s will lose access to their %3$s "
+"certificates.%4$sAdministrators and %5$s (%6$s and %7$s) will then be the "
+"only users who can view and print certificates for the %8$s."
+msgstr ""
+"Después de seleccionar esta casilla de verificación, todos los %2$s de %1$s "
+"perderán el acceso a sus certificados de %3$s.%4$sLos administradores y %5$s "
+"(%6$s y %7$s) serán entonces los únicos usuarios que podrán ver e imprimir "
+"certificados para los %8$s."
+
+#: src/Settings.php:358
+msgid ""
+"After selecting this checkbox, if any of your %1$s are configured in UnCanny "
+"groups, you will not be asked to set any %2$s seats in the %3$s, nor will "
+"you need to create a %4$s."
+msgstr ""
+"Después de seleccionar esta casilla de verificación, si alguno de sus %1$s "
+"está configurado en grupos UnCanny, no se le pedirá que configure ningún "
+"%2$sitio en el %3$s, ni necesitará crear un %4$sitio."
+
+#: src/Settings.php:1130
+msgid "Allow %1$s to have %2$s certificate access"
+msgstr "Permitir que %1$s tenga acceso al certificado %2"
+
+#: src/Settings.php:1122
+msgid "Allow existing users to be updated during upload process."
+msgstr ""
+"Permitir que los usuarios existentes se actualicen durante el proceso de "
+"carga."
+
+#: src/Settings.php:1115
+msgid "Allow existing users to be updated:"
+msgstr "Permitir la actualización de los usuarios existentes:"
+
+#: src/Settings.php:1183
+msgid ""
+"Allow lead organizers to see all users that are \"subscribers\" in the "
+"platform when selecting \"User already exists\"."
+msgstr ""
+"Permitir a los organizadores de leads ver todos los usuarios que son "
+"\"suscriptores\" en la plataforma al seleccionar \"Usuario ya existente\"."
+
+#: src/Settings.php:1176
+msgid "Allow lead organizers to see all users:"
+msgstr "Permitir a los organizadores ver a todos los usuarios:"
+
+#: src/Module/WooCommerce/Organizations.php:405
+#: src/Module/WooCommerce/Organizations_Groups.php:381
+#: src/Module/WooCommerce/Teams/Product_Edit.php:405
+msgid "Allow seats"
+msgstr "Permitir asientos"
+
+#. translators: 1$: team leader label, 2$: organization label, 3$: team member label.
+#: src/Settings.php:311
+msgid ""
+"Any %1$s beyond the set number you enter in each Primary Group (%2$s) will "
+"take a seat from the total number of %3$s seats."
+msgstr ""
+"Cualquier %1$s que supere el número establecido que introduzca en cada Grupo "
+"Primario (%2$s) tomará un asiento del número total de %3$s asientos."
+
+#: src/resources/templates/team-member/lesson-listing.php:1052
+#: src/resources/templates/team-member/lesson-listing.php:1134
+#: src/resources/templates/team-member/lesson-listing.php:1250
+#: src/resources/templates/team-member/lesson-listing.php:1333
+#: src/resources/templates/team-member/lesson-listing.php:1449
+msgid "Approve"
+msgstr "Aprobar"
+
+#: src/resources/templates/team-member/lesson-listing.php:1106
+#: src/resources/templates/team-member/lesson-listing.php:1124
+#: src/resources/templates/team-member/lesson-listing.php:1306
+#: src/resources/templates/team-member/lesson-listing.php:1324
+msgid "Approved"
+msgstr "Aprobado"
+
+#: src/Settings.php:2033
+msgid ""
+"As with the main page template file, you will need to place the add-team-"
+"leader.php and/or the add-team-member.php files into a new folder structure "
+"inside the /learndash/groups-plus/ folder in your child-theme."
+msgstr ""
+"Al igual que con el archivo de plantilla de la página principal, deberá "
+"colocar los archivos add-team-leader.php y/o add-team-member.php en una "
+"nueva estructura de carpetas dentro de la carpeta /learndash/groups-plus/ de "
+"su tema hijo."
+
+#: src/Settings.php:1932
+msgid ""
+"As with the main page template file, you will need to place the "
+"shortcodes/team-member-report.php, and/or lesson-listing.php files into a "
+"new folder structure inside the /learndash/groups-plus/ folder in your child-"
+"theme."
+msgstr ""
+"Al igual que con el archivo de plantilla de la página principal, tendrá que "
+"colocar los archivos shortcodes/team-member-report.php, y/o lesson-listing."
+"php en una nueva estructura de carpetas dentro de la carpeta "
+"/learndash/groups-plus/ en su child-theme."
+
+#: src/Settings.php:3324
+msgid "Assignment Approved Button Background Color:"
+msgstr "Asignación aprobada Color de fondo del botón:"
+
+#: src/Settings.php:3333
+msgid "Assignment Approved Button Text Color:"
+msgstr "Asignación aprobada Color del texto del botón:"
+
+#: src/Settings.php:3344
+msgid "Assignment Buttons Border Radius:"
+msgstr "Asignación Botones Radio del borde:"
+
+#: src/Settings.php:3284
+msgid "Assignment Grade Button Background Color:"
+msgstr "Botón de calificación de la tarea Color de fondo:"
+
+#: src/Settings.php:3293
+msgid "Assignment Grade Button Text Color:"
+msgstr "Asignación Grado Botón Texto Color:"
+
+#: src/Settings.php:3304
+msgid "Assignment Resubmit Button Background Color:"
+msgstr "Asignación Reenviar Botón Color de fondo:"
+
+#: src/Settings.php:3313
+msgid "Assignment Resubmit Button Text Color:"
+msgstr "Asignación Color del texto del botón de reenvío:"
+
+#: src/Settings.php:896
+msgid "Assignments Approval using Gravity Forms"
+msgstr "Aprobación de asignaciones con Gravity Forms"
+
+#: src/resources/templates/team-member/lesson-listing.php:1275
+msgid "Assignments:"
+msgstr "Tareas:"
+
+#: src/resources/templates/team-member/email-team-member.php:100
+#: src/resources/templates/team/modal.php:309
+msgid "Autologin link of %s"
+msgstr "Enlace autologin de %s"
+
+#: src/resources/templates/team/modal.php:180
+#: src/resources/templates/team/modal.php:436
+msgid "Available Courses"
+msgstr "Cursos disponibles"
+
+#: src/resources/templates/team-member/email-team-member.php:71
+#: src/resources/templates/team-member/email-team-member.php:156
+#: src/resources/templates/team/modal.php:280
+#: src/resources/templates/team/modal.php:360 src/Settings.php:1688
+#: src/Settings.php:1732
+msgid "Available merge codes"
+msgstr "Códigos de fusión disponibles"
+
+#. translators: Organization.
+#: src/resources/templates/team/header.php:170
+msgid "Back to %s"
+msgstr "Volver a %s"
+
+#: src/Settings.php:62
+msgid "Before you begin"
+msgstr "Antes de empezar"
+
+#: src/Settings.php:1650
+msgid ""
+"Beyond the custom email merge-codes we provide below, you can also use the "
+"LearnDash shortcodes found using the toolbar icon."
+msgstr ""
+"Además de los códigos personalizados de combinación de correo electrónico "
+"que proporcionamos a continuación, también puedes utilizar los códigos "
+"abreviados de LearnDash que se encuentran en el icono de la barra de "
+"herramientas."
+
+#: src/Settings.php:157
+msgid "Block %1$s from viewing and downloading their own %2$s certificates."
+msgstr ""
+"Bloquear a %1$s la visualización y descarga de sus propios certificados %2$s."
+
+#: build/resources/blocks/ld-groups-plus/block.json
+#: src/resources/blocks/ld-groups-plus/block.json
+msgctxt "block title"
+msgid "LearnDash Groups Plus"
+msgstr "Grupos LearnDash Plus"
+
+#: build/resources/blocks/ld-groups-plus-message-board/block.json
+#: src/resources/blocks/ld-groups-plus-message-board/block.json
+msgctxt "block title"
+msgid "LearnDash Groups Plus Message Board"
+msgstr "Tablón de anuncios de LearnDash Groups Plus"
+
+#: build/resources/blocks/ld-groups-plus-primary-report/block.json
+#: src/resources/blocks/ld-groups-plus-primary-report/block.json
+msgctxt "block title"
+msgid "LearnDash Groups Plus Primary Report"
+msgstr "Informe principal de LearnDash Groups Plus"
+
+#: build/resources/blocks/ld-groups-plus-report/block.json
+#: src/resources/blocks/ld-groups-plus-report/block.json
+msgctxt "block title"
+msgid "LearnDash Groups Plus Report"
+msgstr "Informe LearnDash Groups Plus"
+
+#: src/resources/templates/team-member/email-team-member.php:121
+#: src/resources/templates/team-member/email-team-member.php:192
+#: src/resources/templates/team/modal.php:328
+#: src/resources/templates/team/modal.php:396 src/Settings.php:1686
+#: src/Settings.php:1730
+msgid "Body"
+msgstr "Cuerpo"
+
+#: src/resources/templates/team-member/email-team-member.php:31
+#: src/resources/templates/team/modal.php:246
+msgid "Broadcast Email"
+msgstr "Difusión por correo electrónico"
+
+#: src/resources/templates/team-member/email-team-member.php:49
+msgid "Broadcast Messages"
+msgstr "Difusión de mensajes"
+
+#: src/resources/templates/team-member/import-team-member.php:48
+msgid "BROWSE"
+msgstr "BUSCAR"
+
+#: src/resources/templates/team-member/lesson-listing.php:879
+#: src/resources/templates/team-member/lesson-listing.php:968
+#: src/resources/templates/team-member/lesson-listing.php:1165
+#: src/resources/templates/team-member/lesson-listing.php:1365
+msgid "Certificate"
+msgstr "Certificado"
+
+#: src/resources/templates/team/admin-header.php:47
+msgid "Change %s"
+msgstr "Cambiar %s"
+
+#. translators: Organization.
+#: src/resources/templates/team/header.php:187
+msgid "Change %s:"
+msgstr "Cambiar %s:"
+
+#: src/Settings.php:3329
+msgid "Change assignment approved button background color"
+msgstr "Cambiar el color de fondo del botón de asignación aprobada"
+
+#: src/Settings.php:3338
+msgid "Change assignment approved button text color"
+msgstr "Cambiar el color del texto del botón de asignación aprobada"
+
+#: src/Settings.php:3349
+msgid "Change assignment buttons border radius"
+msgstr "Cambiar el radio del borde de los botones de asignación"
+
+#: src/Settings.php:3289
+msgid "Change assignment grade button background color"
+msgstr "Cambiar el color de fondo del botón de calificación de la tarea"
+
+#: src/Settings.php:3298
+msgid "Change assignment grade button text color"
+msgstr "Cambiar el color del texto del botón de calificación de la tarea"
+
+#: src/Settings.php:3309
+msgid "Change assignment resubmit button background color"
+msgstr "Cambiar el color de fondo del botón de reenvío de asignaciones"
+
+#: src/Settings.php:3318
+msgid "Change assignment resubmit button text color"
+msgstr "Cambiar el color del texto del botón de reenvío de la tarea"
+
+#: src/Settings.php:3275
+msgid "Change Completed label color"
+msgstr "Cambiar el color de la etiqueta Completado"
+
+#: src/Settings.php:3397
+msgid "Change for All the course menus"
+msgstr "Cambio para todos los menús del curso"
+
+#: src/Settings.php:3380
+msgid "Change for All the group menus"
+msgstr "Cambiar todos los menús de grupo"
+
+#: src/Settings.php:3413
+msgid "Change for All the user menus"
+msgstr "Cambio para todos los menús de usuario"
+
+#: src/Settings.php:2615
+msgid ""
+"Change groups plus header background and border colors. Delete to reset."
+msgstr ""
+"Cambiar los grupos más los colores de fondo y borde de la cabecera. Borrar "
+"para restablecer."
+
+#: src/Settings.php:3266
+msgid "Change In Progress label color"
+msgstr "Cambiar el color de la etiqueta En curso"
+
+#: src/Settings.php:3255
+msgid "Change Not started label color"
+msgstr "Cambiar el color de la etiqueta No iniciado"
+
+#: src/resources/templates/team-member/change-password.php:18
+#: src/resources/templates/team-member/listing.php:84
+msgid "Change Password"
+msgstr "Cambiar contraseña"
+
+#: src/Settings.php:2563
+msgid "Change the Seats Remaining icon:"
+msgstr "Cambie el icono Plazas restantes:"
+
+#: src/Settings.php:2526
+msgid "Change the Used Seats icon or icon color:"
+msgstr "Cambiar el icono de Asientos Usados o el color del icono:"
+
+#: src/Settings.php:2334
+msgid "Change wording of WooCommerce product page message"
+msgstr "Cambiar la redacción del mensaje de la página de producto WooCommerce"
+
+#: src/Settings.php:1103
+msgid ""
+"Check this box so %1$s and %2$s cannot change their names in the %3$s page. "
+"Administrators will need to edit WordPress profiles to change names in %4$s"
+msgstr ""
+"Marque esta casilla para que %1$s y %2$s no puedan cambiar sus nombres en la "
+"página %3$s. Los administradores tendrán que editar los perfiles de "
+"WordPress para cambiar los nombres en %4$s"
+
+#. translators: team.
+#: src/Module/WooCommerce/Organizations.php:238
+#: src/Module/WooCommerce/Teams/Product_Edit.php:289
+msgid "check to enable %s purchase"
+msgstr "comprobar para permitir %s compra"
+
+#. translators: placeholder: Organization label.
+#: src/Module/WooCommerce/Organizations_Groups.php:249
+msgid "check to enable Pre-Built %s purchase"
+msgstr "marque para activar la compra de Pre-Built %s"
+
+#: src/Module/WooCommerce/Seats.php:713
+msgid "check to sell individual seat purchase"
+msgstr "cheque para vender la compra de asiento individual"
+
+#: src/Settings.php:1352
+msgid ""
+"Checking this box and clicking the %1$s[Convert]%2$s button below will run a "
+"site-wide process that will look for any LearnDash Primary %3$s that have no "
+"Child %4$s and convert them into %5$s.%6$sThe result of this process will "
+"have those %7$s that get converted with a child %8$s of the same name."
+"%9$sThe %10$s(s), %11$s, and %12$s of the primary %13$s will also be copied, "
+"but %14$s will not use the %15$s in that primary %16$s.%17$sAt the end of "
+"this process your %18$s structure will be globally applied.%19$sIf you need "
+"to revert any LearnDash Primary %20$s%21$s back to its original state,%22$s "
+"simply delete the new child group%23$s and it will be restored while all "
+"other %24$s will remain in the new %25$s structure."
+msgstr ""
+"Al marcar esta casilla y hacer clic en el botón %1$s[Convertir]%2$s a "
+"continuación, se ejecutará un proceso en todo el sitio que buscará cualquier "
+"%3$s primario de LearnDash que no tenga %4$s hijo y los convertirá en %5$s."
+"%6$sEl resultado de este proceso tendrá aquellos %7$s que se conviertan con "
+"un %8$s hijo del mismo nombre.%9$sLos %10$s, %11$s, y %12$s del %13$s "
+"primario también se copiarán, pero %14$s no utilizará los %15$s en ese %16$s "
+"primario.%17$sAl final de este proceso su estructura %18$s se aplicará "
+"globalmente.%19$sSi necesita revertir cualquier %20$s%21$s primario de "
+"LearnDash a su estado original,%22$simplemente borre el nuevo grupo "
+"hijo%23$s y se restaurará mientras que todos los demás %24$s permanecerán en "
+"la nueva estructura %25$s."
+
+#: src/Settings.php:1415
+msgid ""
+"Checking this box and clicking the %1$s[Downgrade]%2$s button below will run "
+"a site-wide process that will remove %3$s %4$s and return their parent %5$s "
+"to normal LearnDash %6$s."
+msgstr ""
+"Al marcar esta casilla y hacer clic en el botón %1$s[Downgrade]%2$s a "
+"continuación, se ejecutará un proceso en todo el sitio que eliminará %3$s "
+"%4$s y devolverá sus %5$s padres a LearnDash %6$s normales."
+
+#: src/Module/WooCommerce/Seats.php:212
+msgid "Choose %s"
+msgstr "Elija %s"
+
+#. translators: team.
+#: src/Module/WooCommerce/Organizations.php:723
+#: src/Module/WooCommerce/Organizations_Groups.php:710
+#: src/Module/WooCommerce/Teams/Product_Single.php:370
+msgid "Choose %s name:"
+msgstr "Elija %s nombre:"
+
+#. translators: team course.
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:147
+msgid "Choose at least one %1$s %2$s"
+msgstr "Elija al menos un %1$s %2$s"
+
+#. translators: organization course qty.
+#: src/Module/WooCommerce/Organizations.php:832
+#: src/Module/WooCommerce/Organizations_Groups.php:829
+msgid "Choose at least one %1$s %2$s qty"
+msgstr "Elija al menos una %1$s %2$s cant"
+
+#: src/Settings.php:711
+msgid ""
+"Click on the %1$s tab and add the %2$s you want available for all of its "
+"Child %3$s (%4$s)."
+msgstr ""
+"Haga clic en la pestaña %1$s y añada el %2$s que desea que esté disponible "
+"para todos sus %3$s hijos (%4$s)."
+
+#: src/Settings.php:720
+msgid ""
+"Click on the Users tab and add %1$s (%2$s) to this one %3$s. Save the %4$s."
+msgstr ""
+"Haga clic en la pestaña Usuarios y añada %1$s (%2$s) a este %3$s. Guarde el "
+"%4$s."
+
+#: src/resources/templates/team-member/lesson-listing.php:1020
+#: src/resources/templates/team-member/lesson-listing.php:1084
+#: src/resources/templates/team-member/lesson-listing.php:1218
+#: src/resources/templates/team-member/lesson-listing.php:1282
+#: src/resources/templates/team-member/lesson-listing.php:1417
+msgid "Comments"
+msgstr "Comentarios"
+
+#: src/Settings.php:811
+msgid "Communication"
+msgstr "Comunicación"
+
+#: src/resources/templates/team-member/lesson-listing.php:893
+#: src/resources/templates/team-member/lesson-listing.php:932
+msgid "Completed On"
+msgstr "Completado el"
+
+#: src/Settings.php:2520
+msgid "Completely remove the groups plus header."
+msgstr "Elimina completamente la cabecera de grupos plus."
+
+#: src/Plugin.php:1971
+msgid "Completion"
+msgstr "Finalización"
+
+#: src/resources/templates/team-member/email-team-member.php:145
+#: src/resources/templates/team/modal.php:349
+msgid "Configure %s broadcast email"
+msgstr "Configurar %s correo electrónico de difusión"
+
+#: src/resources/templates/team-member/email-team-member.php:60
+#: src/resources/templates/team/modal.php:269
+msgid "Configure %s welcome email"
+msgstr "Configurar %s email de bienvenida"
+
+#: src/Settings.php:1643
+msgid "Configure Global %1$s and %2$s Welcome emails"
+msgstr "Configurar los correos de bienvenida globales %1$s y %2$s"
+
+#: src/Plugin.php:2534
+#: src/resources/templates/team-member/change-password.php:35
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+#: src/Settings.php:1385
+msgid "Convert"
+msgstr "Convertir"
+
+#: src/Settings.php:1340
+msgid "Convert LearnDash %1$s to %2$s"
+msgstr "Convertir LearnDash %1$s a %2$s"
+
+#: src/Settings.php:93 src/Settings.php:243
+msgid "Convert to %s"
+msgstr "Convertir a %s"
+
+#: src/Settings.php:98
+msgid "Convert your LearnDash %1$s to %2$s."
+msgstr "Convierte tu LearnDash %1$s a %2$s."
+
+#: src/resources/templates/team-member/filter.php:133
+msgid "Course Name"
+msgstr "Nombre del curso"
+
+#: src/Module/WooCommerce/Organizations.php:549
+msgid "Course Names"
+msgstr "Nombres de los cursos"
+
+#: src/Module/WooCommerce/Organizations.php:1926
+msgid "Course Price"
+msgstr "Precio del curso"
+
+#: src/resources/templates/team-member/lesson-listing.php:1351
+msgid "Course Quizzes"
+msgstr "Pruebas del curso"
+
+#. translators: organization label.
+#: src/Settings.php:229
+msgid "Create %s and Seat products in WooCommerce."
+msgstr "Crear productos %s y Seat en WooCommerce."
+
+#: src/Settings.php:1854 src/Settings.php:1941 src/Settings.php:2041
+msgid ""
+"Create a folder named \"learndash/groups-plus\" at the root of the child-"
+"theme ( example: child-theme/%1$slearndash/groups-plus%2$s/ )"
+msgstr ""
+"Cree una carpeta llamada \"learndash/groups-plus\" en la raíz del child-"
+"theme ( ejemplo: child-theme/%1$slearndash/groups-plus%2$s/ )"
+
+#: src/Settings.php:547
+msgid "Create a Group Leader for clients"
+msgstr "Crear un jefe de grupo para los clientes"
+
+#: src/Settings.php:1961
+msgid ""
+"Create a sub-folder named \"shortcodes\" in the templates folder of the "
+"child-theme ( example: child-theme/learndash/groups-"
+"plus/templates/%1$sshortcodes%2$s/ )"
+msgstr ""
+"Cree una subcarpeta llamada \"shortcodes\" en la carpeta templates del child-"
+"theme ( ejemplo: child-theme/learndash/groups-"
+"plus/templates/%1$sshortcodes%2$s/ )"
+
+#: src/Settings.php:1971
+msgid ""
+"Create a sub-folder named \"team-member\" in the templates folder of the "
+"child-theme ( example: child-theme/learndash/groups-plus/templates/%1$steam-"
+"member%2$s/ )"
+msgstr ""
+"Cree una subcarpeta llamada \"team-member\" en la carpeta templates del "
+"child-theme ( ejemplo: child-theme/learndash/groups-plus/templates/%1$steam-"
+"member%2$s/ )"
+
+#: src/Settings.php:1951
+msgid ""
+"Create a sub-folder named \"templates\" in the learndash/groups-plus folder "
+"of the child-theme ( example: child-theme/learndash/groups-"
+"plus/%1$stemplates%2$s/ )"
+msgstr ""
+"Cree una subcarpeta llamada \"templates\" en la carpeta learndash/groups-"
+"plus del child-theme ( ejemplo: child-theme/learndash/groups-"
+"plus/%1$stemplates%2$s/ )"
+
+#: src/Settings.php:171 src/Settings.php:421
+msgid "Create global default email templates"
+msgstr "Crear plantillas de correo electrónico globales por defecto"
+
+#. Description of the plugin
+#: learndash-groups-plus.php
+msgid ""
+"Create Groups Plus without the need to sell them. This plugin manages "
+"LearnDash native Groups in the web site. Let your client organizations do "
+"all the organizational management work and view their details reports."
+msgstr ""
+"Crea Grupos Plus sin necesidad de venderlos. Este plugin gestiona los Grupos "
+"nativos de LearnDash en el sitio web. Deje que sus organizaciones de "
+"clientes hagan todo el trabajo de gestión de la organización y ver sus "
+"informes de detalles."
+
+#: src/Settings.php:611
+msgid ""
+"Create or edit an existing %1$s in your dashboard under %2$sLearnDash LMS > "
+"%3$s%4$s page"
+msgstr ""
+"Cree o edite un %1$s existente en su panel de control en la página "
+"%2$sLearnDash LMS > %3$s%4$s"
+
+#: src/Settings.php:175
+msgid "Create welcome email templates for %s invitation emails."
+msgstr ""
+"Crear plantillas de correo electrónico de bienvenida para %s correos "
+"electrónicos de invitación."
+
+#: src/Settings.php:605
+msgid "Create/Edit a %s"
+msgstr "Crear/Editar un %s"
+
+#: src/Settings.php:1816
+msgid "Creating custom actions through hooks"
+msgstr "Creación de acciones personalizadas mediante ganchos"
+
+#: src/Settings.php:2268
+msgid ""
+"Creating your own buttons on the Edit %s modal after the default buttons"
+msgstr ""
+"Creación de botones propios en el modal Editar %s después de los botones por "
+"defecto"
+
+#: src/Settings.php:2242
+msgid ""
+"Creating your own buttons on the Edit %s modal before the default buttons"
+msgstr ""
+"Creación de botones propios en el modal Editar %s antes de los botones por "
+"defecto"
+
+#: src/resources/templates/team-member/email-team-member.php:243
+msgid "Date"
+msgstr "Fecha"
+
+#: src/resources/templates/team-member/login-history.php:20
+msgid "Date / Time"
+msgstr "Fecha / Hora"
+
+#: src/Settings.php:3384
+msgid "Default order of Courses:"
+msgstr "Orden por defecto de los Cursos:"
+
+#: src/Settings.php:3367
+msgid "Default order of Groups:"
+msgstr "Orden por defecto de los Grupos:"
+
+#: src/Settings.php:3401
+msgid "Default Order of Users:"
+msgstr "Orden de usuarios por defecto:"
+
+#: src/resources/templates/team-member/ajax/edit-team-member.php:63
+msgid "Delete"
+msgstr "Borrar"
+
+#: src/Plugin.php:1151
+msgid "Design"
+msgstr "Diseño"
+
+#: src/Settings.php:2455
+msgid "Design Settings"
+msgstr "Ajustes de diseño"
+
+#: src/Plugin.php:1152 src/Settings.php:1799
+msgid "Developer Resources"
+msgstr "Recursos para desarrolladores"
+
+#. translators: Teams.
+#: src/Plugin.php:843
+msgid "Disable %s creation?"
+msgstr "¿Desactivar la creación de %s?"
+
+#: src/Settings.php:2668
+msgid "Disable %s level Broadcast Email tab:"
+msgstr "Desactivar la pestaña de correo electrónico de difusión de nivel %s:"
+
+#: src/Settings.php:2623
+msgid "Disable %s level Email button:"
+msgstr "Desactivar el botón de correo electrónico de nivel %s:"
+
+#: src/Settings.php:2686
+msgid "Disable %s level Welcome Email tab:"
+msgstr "Desactivar la pestaña Email de Bienvenida de nivel %s:"
+
+#: src/Settings.php:3077
+msgid "Disable %s Welcome Email tab"
+msgstr "Desactivar la pestaña %s Email de bienvenida"
+
+#: src/Settings.php:2878
+msgid "Disable Add %1$s as %2$s tab"
+msgstr "Desactivar la pestaña Añadir %1$s como %2$s"
+
+#: src/Settings.php:2997
+msgid "Disable Add %s button"
+msgstr "Desactivar botón Añadir %s"
+
+#: src/Settings.php:2745 src/Settings.php:2857
+msgid "Disable Add %s tab"
+msgstr "Desactivar la pestaña Añadir %s"
+
+#: src/Settings.php:3065
+msgid "Disable Broadcast Email tab:"
+msgstr "Desactivar la pestaña Difusión de correo electrónico:"
+
+#: src/Settings.php:3136
+msgid "Disable Change Password button:"
+msgstr "Desactivar el botón Cambiar contraseña:"
+
+#: src/Settings.php:2766
+msgid "Disable Delete %s icon"
+msgstr "Desactivar el icono Eliminar %s"
+
+#: src/Settings.php:2903
+msgid "Disable Delete %s trashcan icon"
+msgstr "Desactivar el icono de la papelera Delete %s"
+
+#: src/Settings.php:3195
+msgid "Disable Delete icon:"
+msgstr "Desactivar el icono Eliminar:"
+
+#: src/Settings.php:3117
+msgid "Disable Edit %s button"
+msgstr "Desactivar botón Editar %s"
+
+#: src/Settings.php:3028
+msgid "Disable Email %s button"
+msgstr "Desactivar botón Email %s"
+
+#: src/Settings.php:2961 src/Settings.php:3146
+msgid "Disable Export CSV button:"
+msgstr "Desactivar el botón Exportar CSV:"
+
+#: src/Settings.php:2510
+msgid "Disable Groups Plus Header"
+msgstr "Desactivar Grupos Más Cabecera"
+
+#: src/Settings.php:3016
+msgid "Disable Import List button:"
+msgstr "Desactivar el botón Importar lista:"
+
+#: src/Settings.php:3231
+msgid "Disable Lock column in Detailed %s Report"
+msgstr "Desactivar la columna Bloqueo en el informe detallado %s"
+
+#: src/Settings.php:2807
+msgid "Disable Manage %s button"
+msgstr "Desactivar el botón Gestionar %s"
+
+#: src/Settings.php:2637
+msgid "Disable Manage %s button:"
+msgstr "Desactivar el botón Gestionar %s:"
+
+#: src/Settings.php:2724
+msgid "Disable Manage %s tab:"
+msgstr "Desactivar la pestaña Gestionar %s:"
+
+#: src/Settings.php:2826
+msgid "Disable Manage Courses button:"
+msgstr "Desactivar el botón Gestionar cursos:"
+
+#: src/Settings.php:2924
+msgid "Disable Permanently Delete %s person-X icon:"
+msgstr "Desactivar Eliminar permanentemente el icono %s persona-X:"
+
+#: src/Settings.php:3180
+msgid "Disable Remove icon:"
+msgstr "Desactivar el icono Eliminar:"
+
+#: src/Settings.php:378
+msgid "Disallow %s certificate access"
+msgstr "No permitir el acceso al certificado %s"
+
+#: src/Settings.php:3404
+msgid "Display Name"
+msgstr "Mostrar nombre"
+
+#: src/Settings.php:1429
+msgid "Downgrade"
+msgstr "Bajar de categoría"
+
+#: src/Settings.php:1393 src/Settings.php:1404
+msgid "Downgrade %1$s to Normal %2$s"
+msgstr "Bajar %1$s a Normal %2$s"
+
+#: src/resources/templates/team-member/import-team-member.php:40
+msgid "Download CSV template"
+msgstr "Descargar plantilla CSV"
+
+#: src/Settings.php:2051
+msgid ""
+"Download the \"template-learndash-groups-plus-group.php\" file below and, "
+"using your FTP client, upload it to your child-theme/%1$slearndash/groups-"
+"plus%2$s/ folder ensuring you save it as the same filename in that folder. "
+"This file contains code that will direct team to use the files in your child-"
+"theme folders."
+msgstr ""
+"Descargue el archivo \"template-learndash-groups-plus-group.php\" que "
+"aparece a continuación y, utilizando su cliente FTP, súbalo a su carpeta "
+"child-theme/%1$slearndash/groups-plus%2$s/ asegurándose de guardarlo con el "
+"mismo nombre de archivo en esa carpeta. Este archivo contiene el código que "
+"dirigirá el equipo para utilizar los archivos en sus carpetas child-theme."
+
+#: src/Settings.php:971
+msgid "Download, then import the Gravity Forms %s template file."
+msgstr "Descargue e importe el archivo de plantilla %s de Gravity Forms."
+
+#: src/Settings.php:1864 src/Settings.php:2060 src/Settings.php:2078
+#: src/Settings.php:2096
+msgid "Download: %s"
+msgstr "Descargar: %s"
+
+#: src/resources/templates/team-member/listing.php:76
+msgid "Edit"
+msgstr "Editar"
+
+#: src/resources/templates/team-member/listing.php:32
+msgid "Edit %s Information"
+msgstr "Editar %s Información"
+
+#: src/Settings.php:3168
+msgid "Edit %s Modal"
+msgstr "Editar %s Modal"
+
+#: src/Settings.php:1881
+msgid ""
+"Edit the \"%1$stemplate-learndash-groups-plus.php%2$s\" file to your liking."
+msgstr ""
+"Edite el archivo \"%1$stemplate-learndash-groups-plus.php%2$s\" a su gusto."
+
+#: src/Settings.php:1016
+msgid ""
+"Edit the settings of any %1$s or %2$s that has an assignment upload "
+"requirements and enter the Gravity Form page URL, the Gravity Form ID number,"
+" the field ID used to indicate the uploaded assignment is satisfactory or "
+"competent.%3$sOptionally, if you already have a drop down menu created to "
+"select %4$s names (for bulk scoring purposes), enter that field ID, else "
+"leave it empty.%5$sWith these completed, you will now be able to process "
+"uploaded assignments using the Gravity Form(s) you have created."
+msgstr ""
+"Edite la configuración de cualquier %1$s o %2$s que tenga requisitos de "
+"carga de asignaciones e introduzca la URL de la página del Gravity Form, el "
+"número de ID del Gravity Form, el ID de campo utilizado para indicar que la "
+"asignación cargada es satisfactoria o competente.%3$sOpcionalmente, si ya "
+"tiene un menú desplegable creado para seleccionar %4$s nombres (con fines de "
+"puntuación masiva), introduzca ese ID de campo, de lo contrario déjelo vacío."
+"%5$sUna vez completado esto, ahora podrá procesar las asignaciones cargadas "
+"utilizando el/los Gravity Form(s) que ha creado."
+
+#: src/Settings.php:1873
+msgid "Edit this copy of the file on your local computer."
+msgstr "Edite esta copia del archivo en su ordenador local."
+
+#: src/resources/templates/team-member/add-team-member.php:93
+#: src/resources/templates/team-member/ajax/edit-team-member.php:34
+#: src/resources/templates/team/header.php:128
+#: src/resources/templates/team/modal.php:537
+#: src/resources/templates/team/modal.php:677
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: src/resources/templates/team-member/header.php:133
+msgid "Email %s"
+msgstr "Correo electrónico %s"
+
+#: src/Plugin.php:2295 src/Plugin.php:2611 src/Plugin.php:2811
+#: src/Plugin.php:2813
+msgid "Email address already used"
+msgstr "Dirección de correo electrónico ya utilizada"
+
+#: src/Plugin.php:1248 src/Plugin.php:1495
+msgid "Email field is required and to be in correct format."
+msgstr "El campo Email es obligatorio y debe tener el formato correcto."
+
+#: src/Settings.php:1259
+msgid "Enable %1$s to add subscription-based seats to %2$s"
+msgstr "Habilitar %1$s para añadir plazas por suscripción a %2$s"
+
+#: src/Settings.php:1271
+msgid ""
+"Enable %1$s to add subscription-based seats to %2$s is checked AND a "
+"subscription product is created to add seats to a %3$s."
+msgstr ""
+"Habilitar %1$s para añadir plazas basadas en suscripción a %2$s está marcada "
+"Y se ha creado un producto de suscripción para añadir plazas a %3$s."
+
+#: src/Settings.php:818
+msgid "Enable %s message board:"
+msgstr "Habilitar %s tablón de anuncios:"
+
+#. translators: team.
+#: src/Module/WooCommerce/Organizations.php:234
+#: src/Module/WooCommerce/Teams/Product_Edit.php:284
+msgid "Enable %s purchase"
+msgstr "Habilitar compra %s"
+
+#: src/Settings.php:1238 src/Settings.php:1249
+msgid "Enable Add Seats to %s"
+msgstr "Activar Añadir Asientos a %s"
+
+#: src/Settings.php:866 src/Settings.php:874 src/Settings.php:885
+msgid "Enable BuddyBoss groups for %s"
+msgstr "Habilitar grupos BuddyBoss para %s"
+
+#: src/Settings.php:859
+msgid "Enable BuddyBoss groups for %s:"
+msgstr "Habilitar grupos BuddyBoss para %s:"
+
+#. translators: placeholder: Organization label.
+#: src/Module/WooCommerce/Organizations_Groups.php:244
+msgid "Enable Pre-Built %s purchase"
+msgstr "Habilitar compra pre-construida %s"
+
+#: src/Module/WooCommerce/Seats.php:712
+msgid "Enable seat purchase"
+msgstr "Permitir la compra de asientos"
+
+#: src/Settings.php:1199
+msgid "Enable WooCommerce Integration:"
+msgstr "Habilitar la integración de WooCommerce:"
+
+#. translators: team.
+#: src/Module/WooCommerce/Organizations.php:691
+#: src/Module/WooCommerce/Teams/Product_Single.php:280
+msgid "Enter %s name"
+msgstr "Introduzca %s nombre"
+
+#: src/resources/templates/team/modal.php:100
+#: src/resources/templates/team/modal.php:553
+msgid "Enter %s Name *"
+msgstr "Introduzca %s Nombre *"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:682
+msgid "Enter %s name:"
+msgstr "Introduzca %s nombre:"
+
+#: src/Settings.php:650
+msgid ""
+"Enter the number of %1$s you want to provide for all %2$s in this %3$s. Save "
+"the %4$s."
+msgstr ""
+"Introduzca el número de %1$s que desea proporcionar para todos los %2$s en "
+"este %3$s. Guarde los %4$s."
+
+#: src/Module/WooCommerce/Teams/Product_Single.php:696
+msgid "Error retrieving variation product."
+msgstr "Error al recuperar el producto de la variación."
+
+#: src/resources/templates/team-member/lesson-listing.php:1017
+#: src/resources/templates/team-member/lesson-listing.php:1215
+#: src/resources/templates/team-member/lesson-listing.php:1414
+msgid "Essays"
+msgstr "Ensayos"
+
+#: src/resources/templates/team-member/login-history.php:21
+msgid "Event"
+msgstr "Evento"
+
+#: src/Settings.php:2134 src/Settings.php:2151 src/Settings.php:2175
+#: src/Settings.php:2192 src/Settings.php:2213 src/Settings.php:2230
+#: src/Settings.php:2257 src/Settings.php:2283 src/Settings.php:2312
+#: src/Settings.php:2341
+msgid "Example usage"
+msgstr "Ejemplo de uso"
+
+#: src/Module/WooCommerce/Organizations.php:546
+#: src/Module/WooCommerce/Organizations_Groups.php:534
+msgid "Exclude from publicly sold seats"
+msgstr "Excluir de la venta pública de plazas"
+
+#: src/Module/WooCommerce/Organizations.php:711
+#: src/Module/WooCommerce/Organizations_Groups.php:697
+#: src/Module/WooCommerce/Teams/Checkout.php:127
+#: src/Module/WooCommerce/Teams/Product_Single.php:318 src/Settings.php:2481
+msgid "Exclude from publicly sold seats:"
+msgstr "Excluir de las plazas vendidas públicamente:"
+
+#: src/Plugin.php:878
+msgid "Exclude from WooCommerce product pages"
+msgstr "Excluir de las páginas de productos de WooCommerce"
+
+#: src/resources/templates/team-member/listing.php:105
+#: src/resources/templates/team/groups-plus-report.php:37
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#: src/Settings.php:770
+msgid "FERPA (U.S.) Compliance"
+msgstr "Cumplimiento de FERPA (EE.UU.)"
+
+#: src/resources/templates/team-member/lesson-listing.php:1081
+#: src/resources/templates/team-member/lesson-listing.php:1279
+msgid "File Name"
+msgstr "Nombre del archivo"
+
+#: src/resources/templates/team-member/import-team-member.php:54
+msgid "File name will appear here"
+msgstr "El nombre del archivo aparecerá aquí"
+
+#: src/resources/templates/team-member/filter.php:144
+msgid "Filter"
+msgstr "Filtro"
+
+#: src/Settings.php:730
+msgid "Finally"
+msgstr "Por último"
+
+#. translators: 1$: team member label, 2$: group leader label, 3$: course label, 4$: team label.
+#: src/Settings.php:270
+msgid ""
+"Finally, it will copy your %1$s(s), %2$s(s) and %2$s(s) in the primary group "
+"to a %4$s of the same name."
+msgstr ""
+"Por último, copiará sus %1$s(s), %2$s(s) y %2$s(s) en el grupo primario a un "
+"%4$s del mismo nombre."
+
+#: src/resources/templates/team-member/add-team-member.php:78
+#: src/resources/templates/team-member/ajax/edit-team-member.php:20
+msgid "First Name *"
+msgstr "Nombre *"
+
+#: src/Plugin.php:1252 src/Plugin.php:1499
+msgid "First name field is required."
+msgstr "El campo Nombre es obligatorio."
+
+#: src/resources/templates/team/modal.php:534
+#: src/resources/templates/team/modal.php:674
+msgid "Firstname"
+msgstr "Nombre"
+
+#: src/Plugin.php:2601 src/Plugin.php:2788
+msgid "Firstname is required"
+msgstr "El nombre es obligatorio"
+
+#: src/Plugin.php:2280
+msgid "Firstname is required and at least 3 letters."
+msgstr "El nombre es obligatorio y debe tener al menos 3 letras."
+
+#: src/Settings.php:550
+msgid ""
+"For best results, %1$screate at least one Group Leader user for each Primary "
+"Group (%2$s)%3$s to act as the %4$s%5$s%6$s type user of that single "
+"%7$sPrimary Group (%8$s)%9$s and its %10$sChild Groups (%11$s)%12$s. If your "
+"%13$sChild Groups (%14$s)%15$s have group leaders, they will become "
+"%16$s%17$s%18$s."
+msgstr ""
+"Para obtener los mejores resultados, %1$crea al menos un usuario Líder de "
+"grupo para cada Grupo primario (%2$s)%3$s que actúe como usuario de tipo "
+"%4$s%5$s%6$s de ese único %7$sGrupo primario (%8$s)%9$s y sus %10$sGrupos "
+"secundarios (%11$s)%12$s. Si sus %13$sGrupos hijos (%14$s)%15$s tienen "
+"líderes de grupo, se convertirán en %16$s%17$s%18$s."
+
+#: src/Settings.php:2301
+msgid ""
+"Function to automatically lock a %1$s in a %2$s for all users in your site:"
+"%3$sWARNING:%4$s This function must be disabled in order to release the "
+"locked %5$s%6$sTo disable this function, you can comment out the  "
+"\"add_filter\" line by adding%7$s\" // \" to the left of it (\" // "
+"add_filter \")"
+msgstr ""
+"Función para bloquear automáticamente un %1$s en un %2$s para todos los "
+"usuarios de su sitio:%3$sWARNING:%4$s Esta función debe desactivarse para "
+"liberar el %5$s%6$s bloqueado Para desactivar esta función, puede comentar "
+"la línea \"add_filter\" añadiendo%7$s\" // \" a la izquierda de la misma (\" "
+"// add_filter \")"
+
+#: src/Plugin.php:1148
+msgid "General"
+msgstr "General"
+
+#: src/Plugin.php:1150
+msgid "Global Email"
+msgstr "Correo electrónico global"
+
+#: src/Settings.php:3361
+msgid "Global Menu Order"
+msgstr "Orden global del menú"
+
+#: src/resources/templates/team-member/lesson-listing.php:1118
+#: src/resources/templates/team-member/lesson-listing.php:1318
+msgid "Grade"
+msgstr "Grado"
+
+#: src/Plugin.php:4068
+msgid ""
+"Gravity Form Field ID (Field must have value of Competent or Satisfactory to "
+"Approve assignment)"
+msgstr ""
+"ID de campo de Gravity Form (el campo debe tener el valor Competente o "
+"Satisfactorio para aprobar la asignación)"
+
+#: src/Plugin.php:4049
+msgid "Gravity Form ID"
+msgstr "ID de Gravity Form"
+
+#: src/Plugin.php:4030
+msgid "Gravity Form Page URL (Assignment Upload)"
+msgstr "URL de página de Gravity Form (carga de asignación)"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:1138
+msgid "Group names:"
+msgstr "Nombres de grupos:"
+
+#: src/Settings.php:2204
+msgid "Groups Plus Actions"
+msgstr "Grupos y acciones"
+
+#: src/Settings.php:2017
+msgid "Groups Plus addon is also 100% translatable."
+msgstr "El complemento Groups Plus también es 100% traducible."
+
+#: src/Settings.php:2115
+msgid ""
+"Groups Plus contain hooks that can be used to share information with other "
+"products. As new versions of Groups Plus are released, we will publish new "
+"hooks below."
+msgstr ""
+"Groups Plus contiene ganchos que pueden utilizarse para compartir "
+"información con otros productos. A medida que se publiquen nuevas versiones "
+"de Groups Plus, publicaremos nuevos ganchos a continuación."
+
+#: src/Settings.php:2010
+msgid ""
+"Groups Plus contains CSS classes for most every aspect of the plugin and "
+"using your own custom CSS will allow you to target every aspect of the "
+"product."
+msgstr ""
+"Groups Plus contiene clases CSS para casi todos los aspectos del plugin y el "
+"uso de tu propio CSS personalizado te permitirá orientar cada aspecto del "
+"producto."
+
+#: src/Settings.php:2498
+msgid "Groups Plus Header"
+msgstr "Grupos Plus Cabecera"
+
+#: src/Settings.php:2460
+msgid "Handy Links"
+msgstr "Enlaces útiles"
+
+#: src/Settings.php:2294
+msgid ""
+"Hard-code a %1$s to be automatically locked for all %2$s throughout your site"
+msgstr ""
+"Codifique un %1$s para que se bloquee automáticamente para todos los %2$s de "
+"su sitio"
+
+#: src/Settings.php:2599
+msgid "Header Background color:"
+msgstr "Cabecera Color de fondo:"
+
+#: src/Settings.php:2607
+msgid "Header Border color:"
+msgstr "Color del borde de la cabecera:"
+
+#: src/Settings.php:2118
+msgid ""
+"Here is the list of current hooks available in Groups Plus along with "
+"working examples you can copy / paste to capture data or view results:"
+msgstr ""
+"Aquí está la lista de los ganchos actuales disponibles en Groups Plus junto "
+"con ejemplos de trabajo que puedes copiar / pegar para capturar datos o ver "
+"resultados:"
+
+#: src/Settings.php:2129 src/Settings.php:2170 src/Settings.php:2208
+msgid "Hook fired when a %s is created"
+msgstr "Hook disparado cuando se crea un %s"
+
+#: src/Settings.php:2146 src/Settings.php:2187 src/Settings.php:2225
+msgid "Hook fired when a %s is deleted"
+msgstr "Hook disparado cuando un %s es borrado"
+
+#: src/Settings.php:2112
+msgid ""
+"Hooks are PHP or other specially developed code added into a product as a "
+"defined part in the code that can pass control to other custom code."
+msgstr ""
+"Los ganchos son PHP u otro código especialmente desarrollado que se añade a "
+"un producto como una parte definida en el código que puede pasar el control "
+"a otro código personalizado."
+
+#: src/Module/WooCommerce/Organizations.php:406
+#: src/Module/WooCommerce/Organizations_Groups.php:382
+#: src/Module/WooCommerce/Teams/Product_Edit.php:406
+msgid "How many seats you wanted to allow."
+msgstr "Cuántos asientos quiere permitir."
+
+#. Author URI of the plugin
+#: learndash-groups-plus.php
+msgid "https://www.learndash.com/"
+msgstr "https://www.learndash.com/"
+
+#. Plugin URI of the plugin
+#: learndash-groups-plus.php
+msgid "https://www.learndash.com/extensions/groups-plus/"
+msgstr "https://www.learndash.com/extensions/groups-plus/"
+
+#: src/Settings.php:532
+msgid ""
+"If you also sell %1$s and %2$s seats as subscriptions, this feature lets you "
+"do this too."
+msgstr ""
+"Si también vende %1$s y %2$s plazas como suscripciones, esta función también "
+"le permite hacerlo."
+
+#: src/Settings.php:2465
+msgid ""
+"If you cannot find the colors you want to use throughout this page, you can "
+"find your colors codes using <a href=\"https://www.w3."
+"org/wiki/CSS/Properties/color/keywords\" target=\"_blank\">Hexadecimal, RGB, "
+"RGBA, or Color Keywords</a>.<br/>Examples: HEX: #123456, Keyword: red, RGB: "
+"rgb(100,10,200), RGBA: rgba(100,10,200,0.5)."
+msgstr ""
+"Si no puede encontrar los colores que desea utilizar a lo largo de esta "
+"página, puede encontrar sus códigos de colores utilizando <a href=\"https:"
+"//www.w3.org/wiki/CSS/Properties/color/keywords\" target=\"_blank\">"
+"Hexadecimal, RGB, RGBA, o Palabras clave de color</a>.<br/>Ejemplos: HEX: "
+"#123456, Palabra clave: rojo, RGB: rgb(100,10,200), RGBA: rgba(100,10,200,0."
+"5)."
+
+#: src/Settings.php:438
+msgid ""
+"If you create these default email templates and later your %1$s and %2$s "
+"create their own personal ones, those personal ones will override your "
+"default ones."
+msgstr ""
+"Si crea estas plantillas de correo electrónico predeterminadas y más tarde "
+"sus %1$s y %2$s crean sus propias plantillas personales, éstas anularán sus "
+"plantillas predeterminadas."
+
+#: src/Settings.php:689
+msgid ""
+"If you would like to use the %1$s reports in isolation of the %2$s/%3$s "
+"Administration area, simply add the %4$s and %5$s shortcode to any page or "
+"post."
+msgstr ""
+"Si desea utilizar los informes %1$s de forma aislada del área de "
+"administración %2$s/%3$s, sólo tiene que añadir el código abreviado %4$s y "
+"%5$s a cualquier página o entrada."
+
+#: src/resources/templates/team-member/header.php:117
+msgid "Import List"
+msgstr "Importar lista"
+
+#: src/resources/templates/team-member/import-team-member.php:21
+msgid "Import New %s - Multiple Entries"
+msgstr "Importar nuevo %s - Múltiples entradas"
+
+#: src/Settings.php:980
+msgid ""
+"Import the form and you will have a new form named %1$sLearnDash LMS - "
+"Groups Plus Assignment Fields - Template%2$s. This form contains the fields "
+"Groups Plus will use."
+msgstr ""
+"Importa el formulario y tendrás un nuevo formulario llamado %1$sLearnDash "
+"LMS - Campos de Asignación de Grupos Plus - Plantilla%2$s. Este formulario "
+"contiene los campos que utilizará Groups Plus."
+
+#: src/Settings.php:83
+msgid "Important settings to consider before performing the steps below!"
+msgstr ""
+"Ajustes importantes a tener en cuenta antes de realizar los siguientes pasos"
+
+#: src/Settings.php:1981
+msgid ""
+"In the plugin folder ( named: learndash-groups-plus ), locate the same "
+"folders and copy/download the files you want to template."
+msgstr ""
+"En la carpeta de plugins ( llamada: learndash-groups-plus ), localice las "
+"mismas carpetas y copie/descargue los archivos que desee para la plantilla."
+
+#: src/Settings.php:642
+msgid ""
+"In the same tab you edit the group title, locate the %1$sNumber of %2$s%3$s "
+"metabox."
+msgstr ""
+"En la misma pestaña en la que editas el título del grupo, localiza el "
+"metabox %1$sNúmero de %2$s%3$s."
+
+#: src/resources/templates/team-member/email-team-member.php:82
+#: src/resources/templates/team-member/email-team-member.php:167
+#: src/resources/templates/team/modal.php:291
+#: src/resources/templates/team/modal.php:371
+msgid "Insert name of %s"
+msgstr "Insertar nombre de %s"
+
+#: src/resources/templates/team-member/email-team-member.php:78
+#: src/resources/templates/team-member/email-team-member.php:163
+#: src/resources/templates/team/modal.php:287
+#: src/resources/templates/team/modal.php:367
+msgid "Insert name of child-group"
+msgstr "Introduzca el nombre del grupo de niños"
+
+#: src/resources/templates/team-member/email-team-member.php:75
+#: src/resources/templates/team-member/email-team-member.php:160
+#: src/resources/templates/team/modal.php:284
+#: src/resources/templates/team/modal.php:364
+msgid "Insert name of Parent Group"
+msgstr "Insertar el nombre del grupo de padres"
+
+#: src/resources/templates/team-member/email-team-member.php:94
+#: src/resources/templates/team/modal.php:303
+msgid "Insert password of %s"
+msgstr "Insertar contraseña de %s"
+
+#: src/resources/templates/team-member/email-team-member.php:88
+#: src/resources/templates/team-member/email-team-member.php:173
+#: src/resources/templates/team/modal.php:297
+#: src/resources/templates/team/modal.php:377
+msgid "Insert username of %s"
+msgstr "Insertar nombre de usuario de %s"
+
+#: src/Plugin.php:1209
+msgid "Invalid group"
+msgstr "Grupo no válido"
+
+#: src/Module/WooCommerce/Seats.php:1695 src/Module/WooCommerce/Seats.php:1715
+msgid "Invalid nonce."
+msgstr "Nonce inválido."
+
+#: src/Plugin.php:2498
+msgid "Invalid user"
+msgstr "Usuario no válido"
+
+#: src/Module/Custom_Label.php:97
+msgid "Label to replace \"lead organizer\" (singular)."
+msgstr "Etiqueta para sustituir a \"organizador principal\" (singular)."
+
+#: src/Module/Custom_Label.php:105
+msgid "Label to replace \"lead organizers\" (plural)."
+msgstr "Etiqueta para sustituir a \"organizadores principales\" (plural)."
+
+#: src/Module/Custom_Label.php:65
+msgid "Label to replace \"organization\" (singular)."
+msgstr "Etiqueta para sustituir a \"organización\" (singular)."
+
+#: src/Module/Custom_Label.php:73
+msgid "Label to replace \"organizations\" (plural)."
+msgstr "Etiqueta para sustituir a \"organizaciones\" (plural)."
+
+#: src/Module/Custom_Label.php:113
+msgid "Label to replace \"team leader\" (singular)."
+msgstr "Etiqueta para sustituir a \"jefe de equipo\" (singular)."
+
+#: src/Module/Custom_Label.php:121
+msgid "Label to replace \"team leaders\" (plural)."
+msgstr "Etiqueta para sustituir a \"jefes de equipo\" (plural)."
+
+#: src/Module/Custom_Label.php:129
+msgid "Label to replace \"team member\" (singular)."
+msgstr "Etiqueta para sustituir a \"miembro del equipo\" (singular)."
+
+#: src/Module/Custom_Label.php:137
+msgid "Label to replace \"team members\" (plural)."
+msgstr "Etiqueta para sustituir a \"miembros del equipo\" (plural)."
+
+#: src/Module/Custom_Label.php:81
+msgid "Label to replace \"team\" (singular)."
+msgstr "Etiqueta para sustituir a \"equipo\" (singular)."
+
+#: src/Module/Custom_Label.php:89
+msgid "Label to replace \"teams\" (plural)."
+msgstr "Etiqueta para sustituir a \"equipos\" (plural)."
+
+#: src/resources/templates/team-member/filter.php:161
+msgid "Last Login Date"
+msgstr "Fecha de la última conexión"
+
+#: src/resources/templates/team-member/add-team-member.php:83
+#: src/resources/templates/team-member/ajax/edit-team-member.php:25
+msgid "Last Name"
+msgstr "Apellido"
+
+#: src/resources/templates/team/modal.php:535
+#: src/resources/templates/team/modal.php:675
+msgid "Lastname"
+msgstr "Apellido"
+
+#: src/Module/Custom_Label.php:96 src/Module/Custom_Label.php:178
+msgid "Lead Organizer"
+msgstr "Organizador principal"
+
+#: src/Module/Custom_Label.php:104 src/Module/Custom_Label.php:182
+#: src/Plugin.php:3516
+msgid "Lead Organizers"
+msgstr "Organizadores principales"
+
+#. Author of the plugin
+#: learndash-groups-plus.php
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#. translators: LearnDash Team label courses label.
+#: src/Module/WooCommerce/Teams/Product_Edit.php:227
+msgid "LearnDash %1$s %2$s"
+msgstr "LearnDash %1$s %2$s"
+
+#. translators: Teams.
+#: src/Module/WooCommerce/Organizations.php:171
+#: src/Module/WooCommerce/Teams/Product_Edit.php:172
+msgid "LearnDash %s"
+msgstr "LearnDash %s"
+
+#: src/Plugin.php:690
+msgid "Learndash Groups Plus %s"
+msgstr "Grupos Learndash Plus %s"
+
+#: src/Module/Migration.php:206 src/Module/Migration.php:319
+msgid "LearnDash Groups Plus Migration"
+msgstr "Migración a LearnDash Groups Plus"
+
+#: src/Module/WooCommerce/Organizations.php:1907
+#: src/Module/WooCommerce/Organizations_Groups.php:2105
+#: src/Module/WooCommerce/Seats.php:1337
+msgid "LearnDash Groups Plus WooCommerce"
+msgstr "LearnDash Grupos Plus WooCommerce"
+
+#. Plugin Name of the plugin
+#: learndash-groups-plus.php
+msgid "LearnDash LMS - Groups Plus"
+msgstr "LearnDash LMS - Grupos Plus"
+
+#: src/Plugin.php:245
+msgid ""
+"LearnDash LMS - Groups Plus Add-on requires the following plugin(s) to be "
+"active:"
+msgstr ""
+"LearnDash LMS - Groups Plus Add-on requiere el siguiente plugin(s) para "
+"estar activo:"
+
+#: src/Settings.php:74
+msgid ""
+"LearnDash LMS - Groups Plus addon also includes a detailed reporting "
+"facility for %s and %s to report on only their %s."
+msgstr ""
+"LearnDash LMS - Grupos Plus addon también incluye una función de informes "
+"detallados para %s y %s para informar sobre sólo su %s."
+
+#: src/Settings.php:65
+msgid ""
+"LearnDash LMS - Groups Plus addon uses the native LearnDash Groups or "
+"UnCanny Groups to apply %1$s and %2$s in your website for %3$s to manage and "
+"create %4$s, %5$s, and %6$s."
+msgstr ""
+"LearnDash LMS - Groups Plus addon utiliza los Grupos nativos de LearnDash o "
+"Grupos UnCanny para aplicar %1$s y %2$s en su sitio web para %3$s para "
+"gestionar y crear %4$s, %5$s, y %6$s."
+
+#. translators: placeholder: Organizations label.
+#: src/Module/WooCommerce/Organizations_Groups.php:212
+msgid "LearnDash Pre-Built %1$s"
+msgstr "LearnDash Pre-construido %1$s"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:173
+msgid "LearnDash Pre-Built %s"
+msgstr "LearnDash Pre-construido %s"
+
+#: src/Module/WooCommerce/Seats.php:170 src/Module/WooCommerce/Seats.php:181
+msgid "LearnDash Seats"
+msgstr "LearnDash Asientos"
+
+#: src/Settings.php:2539 src/Settings.php:2576
+msgid "Leave the icon and change the icon color."
+msgstr "Deja el icono y cambia el color del icono."
+
+#: src/Settings.php:940
+msgid ""
+"Let's use use the Gravity Forms notifications system to email the team "
+"member when an assignment needs to be resubmitted or is approved. This can "
+"also be used in conjunction with the LearnDash Notifications system, but is "
+"specific to the Gravity Form."
+msgstr ""
+"Vamos a utilizar el sistema de notificaciones de Gravity Forms para enviar "
+"un correo electrónico al miembro del equipo cuando una tarea necesita ser "
+"reenviada o es aprobada. Esto también se puede utilizar junto con el sistema "
+"de notificaciones de LearnDash, pero es específico de Gravity Form."
+
+#: src/Settings.php:947
+msgid ""
+"Let's you create one form for all assignments or use a different form "
+"specific to each assignment in \n"
+"\t\t\t\t\t\t\t\t\t\t\tdifferent %1$s or %2$s."
+msgstr ""
+"Le permite crear un formulario para todas las tareas o utilizar un "
+"formulario diferente específico para cada tarea en\n"
+"\t\t\t\t\t\t\t\t\t\t\tdiferentes %1$s o %2$s."
+
+#: src/Settings.php:118
+msgid "Limit the number of %1$s that will not use %2$s seats per %3$s."
+msgstr "Limitar el número de %1$s que no utilizarán %2$s plazas por %3$s."
+
+#: src/Plugin.php:321
+msgid "Link may be expired."
+msgstr "El enlace puede estar caducado."
+
+#: src/resources/templates/team-member/lesson-listing.php:1483
+msgid "Loading"
+msgstr "Cargando"
+
+#: src/resources/templates/team-member/lesson-listing.php:888
+msgid "Lock"
+msgstr "Cerradura"
+
+#: src/Settings.php:1091
+msgid "Lock %1$s and %2$s Names"
+msgstr "Bloquear %1$s y %2$s Nombres"
+
+#: src/resources/templates/team-member/login-history.php:30
+msgid "Logged In"
+msgstr "Conectado"
+
+#: src/Module/WooCommerce/Teams/Product_Single.php:680
+msgid "Malformed request data."
+msgstr "Datos de solicitud malformados."
+
+#. translators: placeholder: Teams label.
+#: src/Plugin.php:560 src/resources/templates/team/header.php:117
+#: src/resources/templates/team/listing.php:35
+#: src/resources/templates/team/modal.php:48
+#: src/resources/templates/team/modal.php:497
+msgid "Manage %s"
+msgstr "Gestionar %s"
+
+#: src/Settings.php:2983
+msgid "Manage %s Header"
+msgstr "Gestionar %s Cabecera"
+
+#: src/Settings.php:2843
+msgid "Manage %s Modal"
+msgstr "Gestionar %s Modal"
+
+#: src/Settings.php:2950
+msgid "Manage %s Report"
+msgstr "Gestionar informe %s"
+
+#: src/resources/templates/team/modal.php:425
+msgid "Manage Courses"
+msgstr "Gestionar cursos"
+
+#: src/Settings.php:3054
+msgid "Manage Email %s Modal"
+msgstr "Gestionar Email %s Modal"
+
+#: src/Plugin.php:3529
+msgid "Members"
+msgstr "Miembros"
+
+#: src/Settings.php:3372 src/Settings.php:3389
+msgid "Menu Order"
+msgstr "Menú Pedidos"
+
+#: src/resources/templates/team-member/email-team-member.php:221
+#: src/resources/templates/team-member/email-team-member.php:242
+msgid "Message"
+msgstr "Mensaje"
+
+#: src/resources/templates/team-member/email-team-member.php:238
+msgid "Message List:"
+msgstr "Lista de mensajes:"
+
+#: src/Plugin.php:2526
+msgid "Minimum length for password is 5"
+msgstr "La longitud mínima de la contraseña es 5"
+
+#: src/resources/templates/team-member/change-password.php:31
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#. translators: organization label.
+#: src/Settings.php:263
+msgid ""
+"Next, this process will automatically convert your LearnDash primary groups "
+"(and UnCanny Groups if you use them) to a type of %s structure."
+msgstr ""
+"A continuación, este proceso convertirá automáticamente tus grupos primarios "
+"de LearnDash (y los Grupos UnCanny si los utilizas) en un tipo de estructura "
+"%s."
+
+#: src/Plugin.php:3983
+msgid "No messages found."
+msgstr "No se han encontrado mensajes."
+
+#: src/Plugin.php:1953 src/Plugin.php:3915
+#: src/resources/templates/team-member/lesson-listing.php:902
+#: src/resources/templates/team-member/listing.php:44
+#: src/resources/templates/team-member/login-history.php:50
+#: src/resources/templates/team/listing.php:47
+msgid "No record found."
+msgstr "No se ha encontrado ningún registro."
+
+#: src/Settings.php:1912
+msgid ""
+"NOTE: Groups Plus contains CSS classes for most every aspect of the plugin "
+"and using your own custom CSS will allow you to target every aspect of the "
+"product."
+msgstr ""
+"NOTA: Groups Plus contiene clases CSS para casi todos los aspectos del "
+"plugin y el uso de tu propio CSS personalizado te permitirá orientar cada "
+"aspecto del producto."
+
+#: src/Settings.php:751
+msgid ""
+"Now %1$s can create their own email templates, send ad-hoc emails, create "
+"%2$s and run reports."
+msgstr ""
+"Ahora %1$s pueden crear sus propias plantillas de correo electrónico, enviar "
+"correos ad hoc, crear %2$s y ejecutar informes."
+
+#: src/Settings.php:739
+msgid ""
+"Now the Leader of the %1$s (%2$s) can add %3$s, create their own email "
+"templates, send ad-hoc emails, create %4$s, create %5$s, assign %6$s to %7$s "
+"and run reports."
+msgstr ""
+"Ahora el Líder del %1$s (%2$s) puede añadir %3$s, crear sus propias "
+"plantillas de correo electrónico, enviar correos electrónicos ad-hoc, crear "
+"%4$s, crear %5$s, asignar %6$s a %7$s y ejecutar informes."
+
+#. translators: Team Members.
+#: src/Plugin.php:763
+msgid "Number of %s"
+msgstr "Número de %s"
+
+#. translators: Team Leaders.
+#: src/Plugin.php:798
+msgid "Number of %s not using seats"
+msgstr "Número de %s que no utilizan plazas"
+
+#: src/Plugin.php:635
+msgid "Only group leaders have access to this report."
+msgstr "Sólo los jefes de grupo tienen acceso a este informe."
+
+#: src/Plugin.php:675
+msgid "Only group leaders have access to this tool."
+msgstr "Sólo los jefes de grupo tienen acceso a esta herramienta."
+
+#: src/Plugin.php:4088
+msgid "Optional: Gravity Form %1$s Field ID (Field must be %2$s Dropdown)"
+msgstr ""
+"Opcional: ID de campo de Gravity Form %1$s (el campo debe ser %2$s "
+"desplegable)"
+
+#: src/Settings.php:192
+msgid "Optionally show %1$s full quiz history in the detailed %2$s report."
+msgstr ""
+"Opcionalmente mostrar %1$s historial completo de cuestionarios en el informe "
+"detallado %2$s."
+
+#: src/Settings.php:699
+msgid ""
+"Optionally, add a message board for each %1$s to any page or post using the "
+"%2$s shortcode."
+msgstr ""
+"Opcionalmente, añada un tablón de mensajes para cada %1$s a cualquier página "
+"o entrada utilizando el shortcode %2$s."
+
+#: src/Module/Custom_Label.php:64 src/Module/Custom_Label.php:162
+msgid "Organization"
+msgstr "Organización"
+
+#: src/Module/Custom_Label.php:72 src/Module/Custom_Label.php:166
+msgid "Organizations"
+msgstr "Organizaciones"
+
+#: src/resources/templates/team-member/add-team-member.php:100
+#: src/resources/templates/team-member/add-team-member.php:103
+#: src/resources/templates/team/modal.php:169
+#: src/resources/templates/team/modal.php:619
+msgid "Password"
+msgstr "Contraseña"
+
+#: src/resources/templates/team/modal.php:173
+#: src/resources/templates/team/modal.php:622
+msgid "Password *"
+msgstr "Contraseña *"
+
+#: src/Plugin.php:1244 src/Plugin.php:1491
+msgid "Password field is required."
+msgstr "El campo Contraseña es obligatorio."
+
+#: src/Plugin.php:2518 src/Plugin.php:2608 src/Plugin.php:2795
+msgid "Password is required"
+msgstr "Se requiere contraseña"
+
+#: src/Plugin.php:2542
+msgid "Passwords don't match"
+msgstr "Las contraseñas no coinciden"
+
+#: src/resources/templates/template-learndash-groups-plus.php:68
+msgid "Please add your first LearnDash Group to get started."
+msgstr "Añade tu primer grupo LearnDash para empezar."
+
+#: src/Module/Migration.php:322
+msgid "Please don't close this page until the process is finished."
+msgstr "No cierre esta página hasta que el proceso haya finalizado."
+
+#: src/Plugin.php:3467
+msgid "Please wait for your %s to unlock this information"
+msgstr "Por favor, espere a que su %s para desbloquear esta información"
+
+#: src/Plugin.php:1055
+#: src/resources/templates/team-member/edit-team-member.php:28
+#: src/resources/templates/team-member/elc-ldquiz-modal.php:22
+msgid "Please wait to load..."
+msgstr "Espere a que se cargue..."
+
+#: src/resources/templates/team-member/lesson-listing.php:1026
+#: src/resources/templates/team-member/lesson-listing.php:1224
+#: src/resources/templates/team-member/lesson-listing.php:1423
+msgid "Points"
+msgstr "Puntos"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:2134
+msgid "Pre-built %s?"
+msgstr "¿Preconstruido %s?"
+
+#: build/resources/blocks/ld-groups-plus-message-board/index.js:1
+#: build/resources/blocks/ld-groups-plus-primary-report/index.js:1
+#: build/resources/blocks/ld-groups-plus-report/index.js:1
+#: build/resources/blocks/ld-groups-plus/index.js:1
+#: src/resources/blocks/ld-groups-plus-message-board/index.js:31
+#: src/resources/blocks/ld-groups-plus-primary-report/index.js:31
+#: src/resources/blocks/ld-groups-plus-report/index.js:31
+#: src/resources/blocks/ld-groups-plus/index.js:31
+msgid "Preview"
+msgstr "Vista previa"
+
+#: src/resources/templates/team-member/lesson-listing.php:879
+#: src/resources/templates/team-member/lesson-listing.php:1000
+#: src/resources/templates/team-member/lesson-listing.php:1198
+#: src/resources/templates/team-member/lesson-listing.php:1398
+msgid "Print PDF"
+msgstr "Imprimir PDF"
+
+#: src/Settings.php:901
+msgid "Process Assignment Uploads using Gravity Forms:"
+msgstr "Procesar subidas de asignaciones usando Gravity Forms:"
+
+#. translators: current step of the total step.
+#: src/Module/Migration.php:405
+msgid "Processed step #%1$d of %2$d steps."
+msgstr "Paso procesado #%1$d de %2$d pasos."
+
+#: src/Settings.php:956
+msgid ""
+"Provides LearnDash specific Gravity Form fields that pick up the %1$s and "
+"assignment IDs. The %2$s field can be used in other Gravity Forms not "
+"related to assignments."
+msgstr ""
+"Proporciona campos de Gravity Form específicos de LearnDash que recogen los "
+"%1$s y los ID de asignación. El campo %2$s se puede utilizar en otros "
+"Gravity Forms no relacionados con asignaciones."
+
+#: src/Module/WooCommerce/Seats.php:1380
+msgid "Public subscription seat price"
+msgstr "Precio del asiento de suscripción pública"
+
+#: src/Module/WooCommerce/Organizations.php:576
+#: src/Module/WooCommerce/Organizations.php:988
+#: src/Module/WooCommerce/Organizations_Groups.php:565
+#: src/Module/WooCommerce/Organizations_Groups.php:985
+#: src/Module/WooCommerce/Organizations_Groups.php:1143
+msgid "Qty:"
+msgstr "Cant:"
+
+#: src/Module/WooCommerce/Organizations.php:761
+#: src/Module/WooCommerce/Organizations_Groups.php:762
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: src/resources/templates/team-member/elc-ldquiz-modal.php:18
+msgid "Quiz Notification"
+msgstr "Cuestionario Notificación"
+
+#: src/resources/templates/team-member/lesson-listing.php:1152
+msgid "Quizzes"
+msgstr "Cuestionarios"
+
+#: src/Settings.php:631
+msgid "Refer to Step 4 for your %s admin and reporting shortcode options."
+msgstr ""
+"Consulte el paso 4 para conocer las opciones de su código corto de "
+"administración e informes %s."
+
+#: src/resources/templates/team-member/ajax/edit-team-member.php:52
+msgid "Remove"
+msgstr "Eliminar"
+
+#: src/Settings.php:2592
+msgid "Remove Seats Remaining text from groups plus header."
+msgstr "Eliminar el texto Plazas restantes de los grupos más cabecera."
+
+#: src/Settings.php:2584
+msgid "Remove Seats Remaining text:"
+msgstr "Elimine el texto Asientos restantes:"
+
+#: src/Settings.php:2555
+msgid "Remove Seats Used text from groups plus header."
+msgstr "Eliminar el texto Plazas utilizadas de la cabecera de los grupos plus."
+
+#: src/Settings.php:2547
+msgid "Remove Seats Used text:"
+msgstr "Eliminar Asientos Texto usado:"
+
+#: src/Settings.php:2487
+msgid ""
+"Remove the \"Exclude from publicly sold seats\" table row from the Woo "
+"Product pages it is used in."
+msgstr ""
+"Eliminar la fila de la tabla \"Excluir de asientos vendidos públicamente\" "
+"de las páginas de Productos Woo en las que se utiliza."
+
+#: src/Settings.php:2564
+msgid "Replace the Seats Remaining icon with your own icon."
+msgstr "Sustituya el icono Asientos restantes por su propio icono."
+
+#: src/Settings.php:2527
+msgid "Replace the Seats Used icon with your own icon."
+msgstr "Sustituya el icono Asientos utilizados por su propio icono."
+
+#: src/Settings.php:3270
+msgid "Reporting Color - Completed:"
+msgstr "Informar sobre el color - Completado:"
+
+#: src/Settings.php:3261
+msgid "Reporting Color - In Progress:"
+msgstr "Reporting Color - En curso:"
+
+#: src/Settings.php:3250
+msgid "Reporting Color - Not started:"
+msgstr "Reporting Color - No se ha iniciado:"
+
+#: src/resources/templates/team-member/lesson-listing.php:1112
+#: src/resources/templates/team-member/lesson-listing.php:1312
+msgid "Resubmit"
+msgstr "Vuelva a enviar"
+
+#: src/Plugin.php:2968
+msgid "Roles"
+msgstr "Funciones"
+
+#: src/resources/templates/team-member/import-team-member.php:58
+msgid "SAVE"
+msgstr "GUARDAR"
+
+#: src/resources/templates/team-member/add-team-member.php:110
+#: src/resources/templates/team-member/ajax/edit-team-member.php:40
+#: src/resources/templates/team-member/change-password.php:41
+#: src/resources/templates/team-member/email-team-member.php:133
+#: src/resources/templates/team/modal.php:216
+#: src/resources/templates/team/modal.php:340
+#: src/resources/templates/team/modal.php:472
+#: src/resources/templates/team/modal.php:628
+#: src/resources/templates/team/modal.php:688 src/Settings.php:1321
+#: src/Settings.php:1756 src/Settings.php:3421
+msgid "Save"
+msgstr "Guardar"
+
+#: src/resources/templates/team-member/email-team-member.php:136
+msgid "Save & Send"
+msgstr "Guardar y enviar"
+
+#: src/resources/templates/team-member/lesson-listing.php:959
+#: src/resources/templates/team-member/lesson-listing.php:1158
+#: src/resources/templates/team-member/lesson-listing.php:1358
+msgid "Score"
+msgstr "Puntuación"
+
+#: src/Module/WooCommerce/Organizations.php:754
+#: src/Module/WooCommerce/Organizations_Groups.php:743
+#: src/Module/WooCommerce/Teams/Product_Single.php:460
+#: src/resources/templates/team/modal.php:181
+#: src/resources/templates/team/modal.php:209
+#: src/resources/templates/team/modal.php:437
+#: src/resources/templates/team/modal.php:465
+msgid "Search for names..."
+msgstr "Buscar nombres..."
+
+#: src/Module/WooCommerce/Seats.php:885 src/Module/WooCommerce/Seats.php:1750
+msgid "Seat"
+msgstr "Asiento"
+
+#: src/resources/templates/team/header.php:74
+msgid "Seats Remaining:"
+msgstr "Plazas restantes:"
+
+#: src/Plugin.php:2079 src/Plugin.php:2479
+msgid "Security issue"
+msgstr "Problema de seguridad"
+
+#: src/Plugin.php:3639 src/Plugin.php:3694 src/Plugin.php:3752
+msgid "See more"
+msgstr "Más información"
+
+#. translators: Select team courses.
+#: src/Module/WooCommerce/Organizations.php:749
+#: src/Module/WooCommerce/Organizations_Groups.php:738
+#: src/Module/WooCommerce/Teams/Product_Single.php:448
+msgid "Select %1$s %2$s:"
+msgstr "Seleccione %1$s %2$s:"
+
+#: src/Module/WooCommerce/Seats.php:218 src/Plugin.php:1048 src/Plugin.php:1052
+#: src/resources/templates/team/admin-header.php:49
+msgid "Select %s"
+msgstr "Seleccionar %s"
+
+#. translators: placeholder: Organization label.
+#. translators: placeholder: Organization label..
+#. translators: Course.
+#: src/Module/WooCommerce/Organizations.php:252
+#: src/Module/WooCommerce/Organizations.php:421
+#: src/Module/WooCommerce/Organizations_Groups.php:266
+#: src/Module/WooCommerce/Organizations_Groups.php:403
+#: src/Module/WooCommerce/Teams/Product_Edit.php:307
+msgid "Select LearnDash %s."
+msgstr "Seleccione LearnDash %s."
+
+#: src/Model/WooCommerce/Product/Organizations.php:69
+#: src/Model/WooCommerce/Product/Organizations_Groups.php:69
+#: src/Model/WooCommerce/Product/Seats.php:72
+#: src/Model/WooCommerce/Product/Teams.php:100
+msgid "Select options"
+msgstr "Seleccionar opciones"
+
+#: src/Settings.php:829
+msgid ""
+"Select this to enable a %1$s message board for each %2$s. The %3$s can show "
+"a message to their %4$s %5$s by creating a message from the [Email %6$s] "
+"button, then selecting the Message Board tab in the modal.%7$sThe message "
+"will then be displayed using the %8$s shortcode. The %9$s can later, delete "
+"any message they post to their %10$s by selecting the Trashcan icon in the "
+"[Email %11$s] modal. The %12$s can leave multiple messages.%13$sIf a %14$s "
+"is in multiple %15$s, they will see messages from each of their %16$s."
+"%17$sThe message board is not a two way communication tool. It is an on-"
+"screen message broadcast tool."
+msgstr ""
+"Seleccione esta opción para habilitar un tablón de mensajes %1$s para cada "
+"%2$s. Los %3$s pueden mostrar un mensaje a sus %4$s %5$s creando un mensaje "
+"desde el botón [Email %6$s] y seleccionando la pestaña Tablón de mensajes en "
+"el modal.%7$sEl mensaje se mostrará utilizando el código corto %8$s. El %9$s "
+"puede más tarde, borrar cualquier mensaje que envíe a su %10$s seleccionando "
+"el icono de la papelera en el modal [Email %11$s]. Los %12$s pueden dejar "
+"varios mensajes.%13$sSi un %14$s está en varios %15$s, verá los mensajes de "
+"cada uno de sus %16$s.%17$sEl tablón de anuncios no es una herramienta de "
+"comunicación bidireccional. Es una herramienta de emisión de mensajes en "
+"pantalla."
+
+#: src/Settings.php:1142
+msgid ""
+"Select this to let %1$s open / download / print their own certificates."
+"%2$sIf not selected, %3$s will not have certificate icons anywhere. %4$s "
+"will need to provide the %5$s with their certificates."
+msgstr ""
+"Seleccione esta opción para permitir que %1$s abran / descarguen / impriman "
+"sus propios certificados.%2$sSi no se selecciona, %3$s no tendrán iconos de "
+"certificado en ninguna parte. %4$s tendrán que proporcionar a los %5$s sus "
+"certificados."
+
+#: src/Settings.php:1167
+msgid "Select this to Show all quiz attempts in Detailed %s Report."
+msgstr ""
+"Seleccione esta opción para Mostrar todos los intentos de cuestionario en el "
+"Informe detallado %s."
+
+#: src/Settings.php:1063
+msgid ""
+"Selecting this will enable a LearnDash Group Field for you to enter a number "
+"of %1$s that you want to include who will not occupy any %2$s seats.%3$sThis "
+"setting is done at the Primary Group level and applies to all %4$s.%5$sYou "
+"can then visit each Primary Group and set a number of %6$s that will not "
+"take %7$s seats.%8$sThis leaves you with a very flexible and powerful "
+"feature that you tailor for each %9$s.%10$sThe result is that when the %11$s "
+"of that %12$s populates any %13$s with %14$s as %15$s, they are limited to "
+"the number of free %16$s.%17$sThe default value of free %18$s is 0 when this "
+"setting is turned on.%18$s"
+msgstr ""
+"Al seleccionar esta opción, se habilitará un campo de grupo de LearnDash "
+"para que introduzca un número de %1$s que desee incluir y que no ocuparán "
+"ningún %2$s asiento.%3$sEsta configuración se realiza a nivel de grupo "
+"principal y se aplica a todos los %4$s.%5$sA continuación, puede visitar "
+"cada grupo principal y establecer un número de %6$s que no ocuparán %7$s "
+"asientos.%8$sEsto le deja con una característica muy flexible y potente que "
+"usted adapta para cada %9$s.%10$sEl resultado es que cuando los %11$s de ese "
+"%12$s rellenan cualquier %13$s con %14$s como %15$s, están limitados al "
+"número de %16$s libres.%17$sEl valor por defecto de %18$s libres es 0 cuando "
+"este ajuste está activado.%18$s"
+
+#. translators: organizations label.
+#: src/Settings.php:136
+msgid "Sell %s and Seats using the UnCanny Groups plugin."
+msgstr "Vende %s y Asientos usando el plugin UnCanny Groups."
+
+#. translators: organizations label.
+#: src/Settings.php:226
+msgid "Sell %s and Seats using WooCommerce"
+msgstr "Vender %s y Asientos usando WooCommerce"
+
+#: src/Settings.php:514
+msgid "Sell %s and seats using WooCommerce"
+msgstr "Vende %s y plazas usando WooCommerce"
+
+#: src/resources/templates/team-member/email-team-member.php:204
+#: src/resources/templates/team-member/email-team-member.php:233
+#: src/resources/templates/team/modal.php:408
+msgid "Send"
+msgstr "Enviar"
+
+#: src/Plugin.php:3990
+msgid "Sent On: "
+msgstr "Enviado:"
+
+#: src/resources/templates/team-member/import-team-member.php:35
+msgid "Set up your CSV by following instructions in links below:"
+msgstr ""
+"Configure su CSV siguiendo las instrucciones de los enlaces siguientes:"
+
+#: src/Settings.php:57
+msgid "Setting Up Groups Plus"
+msgstr "Configuración de Grupos Plus"
+
+#: src/Plugin.php:1149 src/Settings.php:807
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/Settings.php:1156
+msgid "Show all quiz attempts in Detailed %s Report"
+msgstr "Mostrar todos los intentos de cuestionario en el informe detallado %s"
+
+#: src/Settings.php:206 src/Settings.php:482
+msgid "Show all users"
+msgstr "Mostrar todos los usuarios"
+
+#: src/Settings.php:188
+msgid "Show full quiz history"
+msgstr "Mostrar el historial completo de concursos"
+
+#: src/Settings.php:454
+msgid "Show full quiz history and all users"
+msgstr "Mostrar el historial completo de cuestionarios y todos los usuarios"
+
+#: build/resources/blocks/ld-groups-plus-message-board/index.js:1
+#: build/resources/blocks/ld-groups-plus-primary-report/index.js:1
+#: build/resources/blocks/ld-groups-plus-report/index.js:1
+#: build/resources/blocks/ld-groups-plus/index.js:1
+#: src/resources/blocks/ld-groups-plus-message-board/index.js:35
+#: src/resources/blocks/ld-groups-plus-primary-report/index.js:35
+#: src/resources/blocks/ld-groups-plus-report/index.js:35
+#: src/resources/blocks/ld-groups-plus/index.js:35
+msgid "Show Preview"
+msgstr "Avance del espectáculo"
+
+#. translators: Sign up fees for team "Team Name".
+#: src/Module/WooCommerce/Teams/Add_To_Cart.php:589
+msgid "Sign up fees for %1$s \"%2$s\""
+msgstr "Cuotas de inscripción para %1$s \"%2$s\""
+
+#. translators: Sign up fees for added seats in "Team Name".
+#: src/Module/WooCommerce/Seats.php:1571
+msgid "Sign up fees for added seats in \"%1$s\""
+msgstr "Cuotas de inscripción para plazas añadidas en \"%1$s\""
+
+#: src/Module/Migration.php:320
+msgid "Starting migration."
+msgstr "Empezando la migración."
+
+#: src/resources/templates/team-member/lesson-listing.php:962
+#: src/resources/templates/team-member/lesson-listing.php:1160
+#: src/resources/templates/team-member/lesson-listing.php:1360
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: src/resources/templates/team-member/lesson-listing.php:1023
+#: src/resources/templates/team-member/lesson-listing.php:1221
+#: src/resources/templates/team-member/lesson-listing.php:1420
+msgid "Status"
+msgstr "Estado"
+
+#: src/Settings.php:546
+msgid "Step 1"
+msgstr "Primer paso"
+
+#: src/Settings.php:602
+msgid "Step 2"
+msgstr "Paso 2"
+
+#: src/Settings.php:638
+msgid "Step 3"
+msgstr "Paso 3"
+
+#: src/Settings.php:673
+msgid "Step 4"
+msgstr "Paso 4"
+
+#: src/Settings.php:707
+msgid "Step 5"
+msgstr "Paso 5"
+
+#: src/resources/templates/team-member/email-team-member.php:117
+#: src/resources/templates/team-member/email-team-member.php:119
+#: src/resources/templates/team-member/email-team-member.php:189
+#: src/resources/templates/team-member/email-team-member.php:190
+#: src/resources/templates/team/modal.php:325
+#: src/resources/templates/team/modal.php:326
+#: src/resources/templates/team/modal.php:393
+#: src/resources/templates/team/modal.php:394 src/Settings.php:1677
+#: src/Settings.php:1721
+msgid "Subject"
+msgstr "Asunto"
+
+#: src/resources/templates/team/groups-plus-report.php:22
+msgid "Table is loading..."
+msgstr "La mesa se está cargando..."
+
+#: src/Module/Custom_Label.php:80 src/Module/Custom_Label.php:170
+msgid "Team"
+msgstr "Equipo"
+
+#: src/Settings.php:1823
+msgid ""
+"Team can be added to your website using the various shortcodes provided."
+msgstr ""
+"El equipo se puede añadir a su sitio web utilizando los diversos códigos "
+"cortos proporcionados."
+
+#: src/Module/Custom_Label.php:112 src/Module/Custom_Label.php:186
+msgid "Team Leader"
+msgstr "Jefe de equipo"
+
+#: src/Module/Custom_Label.php:120 src/Module/Custom_Label.php:190
+msgid "Team Leaders"
+msgstr "Jefes de equipo"
+
+#: src/Module/Custom_Label.php:128 src/Module/Custom_Label.php:194
+msgid "Team Member"
+msgstr "Miembro del equipo"
+
+#: src/Module/Custom_Label.php:136 src/Module/Custom_Label.php:198
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: src/Module/Custom_Label.php:88 src/Module/Custom_Label.php:174
+msgid "Teams"
+msgstr "Equipos"
+
+#: src/Settings.php:1811
+msgid "Templating the %s page"
+msgstr "Plantilla de la página %s"
+
+#. translators: current step of the total step.
+#: src/Module/Migration.php:405
+msgid "The migration has been completed. You can close this page."
+msgstr "La migración ha finalizado. Puede cerrar esta página."
+
+#: src/Settings.php:1826
+msgid ""
+"The shortcodes can be used to show the whole organization administration "
+"area or you can use the report related shortcodes to show only pieces of %s "
+"in any page or post you want."
+msgstr ""
+"Los shortcodes se pueden utilizar para mostrar toda el área de "
+"administración de la organización o puede utilizar los shortcodes "
+"relacionados con el informe para mostrar sólo partes de %s en cualquier "
+"página o post que desee."
+
+#: src/resources/templates/team-member/email-team-member.php:66
+#: src/resources/templates/team/modal.php:275
+msgid "This email template will be sent when you add new %s"
+msgstr "Esta plantilla de correo electrónico se enviará cuando añada nuevos %s"
+
+#: src/resources/templates/team-member/email-team-member.php:151
+#: src/resources/templates/team/modal.php:355
+msgid "This email will be sent immediately to all %s"
+msgstr "Este correo electrónico se enviará inmediatamente a todos los %s"
+
+#: src/Plugin.php:2071 src/Plugin.php:2467
+msgid "This feature has been disabled"
+msgstr "Esta función se ha desactivado"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:757
+msgid "This is a group that will pre-build %1$s and %2$s"
+msgstr "Este es un grupo que pre-construirá %1$s y %2$s"
+
+#: src/Settings.php:915
+msgid "This provides the following 6 benefits"
+msgstr "Esto proporciona las 6 ventajas siguientes"
+
+#: src/Settings.php:1803
+msgid ""
+"This tab is dedicated to those developers needing to change the features, "
+"capabilities, and presentation of the Groups Plus plugin."
+msgstr ""
+"Esta pestaña está dedicada a aquellos desarrolladores que necesiten "
+"modificar las funciones, capacidades y presentación del plugin Grupos Plus."
+
+#: src/resources/templates/team-member/lesson-listing.php:894
+#: src/resources/templates/team-member/lesson-listing.php:933
+#: src/resources/templates/team-member/lesson-listing.php:965
+#: src/resources/templates/team-member/lesson-listing.php:1163
+#: src/resources/templates/team-member/lesson-listing.php:1363
+msgid "Time Spent"
+msgstr "Tiempo empleado"
+
+#: src/resources/templates/team-member/lesson-listing.php:874
+msgid "Time spent: "
+msgstr "Tiempo empleado:"
+
+#: src/Settings.php:3370 src/Settings.php:3387
+msgid "Title"
+msgstr "Título"
+
+#: src/Settings.php:2069
+msgid ""
+"To customize the Add Team Leader modal, create a folder named \"team\" "
+"inside the \"learndash/groups-plus\" folder in the child-theme ( example: "
+"child-theme/%1$slearndash/groups-plus/team%2$s/ ). This folder will contain "
+"modal files used at the team level."
+msgstr ""
+"Para personalizar el modal Agregar Líder de Equipo, cree una carpeta llamada "
+"\"team\" dentro de la carpeta \"learndash/groups-plus\" en el child-theme ( "
+"ejemplo: child-theme/%1$slearndash/groups-plus/team%2$s/ ). Esta carpeta "
+"contendrá los archivos modales utilizados a nivel de equipo."
+
+#: src/Settings.php:2087
+msgid ""
+"To customize the Add Team Member modal, create a folder named \"team-"
+"member\" inside the \"learndash/groups-plus\" folder in the child-theme ( "
+"example: child-theme/%1$slearndash/groups-plus/team-member%2$s/ ). This "
+"folder will contain modal files used at the team level."
+msgstr ""
+"Para personalizar el modal Agregar miembro del equipo, cree una carpeta "
+"llamada \"team-member\" dentro de la carpeta \"learndash/groups-plus\" en el "
+"child-theme ( ejemplo: child-theme/%1$slearndash/groups-plus/team-"
+"member%2$s/ ). Esta carpeta contendrá los archivos modales utilizados a "
+"nivel de equipo."
+
+#: src/Settings.php:965
+msgid "To use this feature, perform the following"
+msgstr "Para utilizar esta función, realice lo siguiente"
+
+#: src/resources/templates/team-member/lesson-listing.php:1077
+msgid "Topic Assignments:"
+msgstr "Asignación de temas:"
+
+#: src/resources/templates/team-member/lesson-listing.php:951
+msgid "Topic Quizzes"
+msgstr "Cuestionarios temáticos"
+
+#: src/Module/WooCommerce/Organizations.php:772
+#: src/Module/WooCommerce/Organizations.php:779
+#: src/Module/WooCommerce/Organizations_Groups.php:773
+#: src/Module/WooCommerce/Organizations_Groups.php:780
+#: src/Module/WooCommerce/Teams/Product_Single.php:511
+msgid "Total price so far:"
+msgstr "Precio total hasta ahora:"
+
+#: src/resources/templates/team/header.php:48
+msgid "Total Seats Used:"
+msgstr "Total de plazas utilizadas:"
+
+#: src/Settings.php:2677
+msgid "Turn %s level Broadcast Email tab On or Off"
+msgstr ""
+"Activar o desactivar la pestaña Difusión de correo electrónico del nivel %s"
+
+#: src/Settings.php:2631
+msgid "Turn %s level Email button On or Off"
+msgstr "Activar o desactivar el botón de correo electrónico de nivel %s"
+
+#: src/Settings.php:2697
+msgid "Turn %s level Welcome Email tab On or Off"
+msgstr "Activar o desactivar la pestaña Email de bienvenida de nivel %s"
+
+#: src/Settings.php:3089
+msgid "Turn %s Welcome Email tab On or Off"
+msgstr "Activar o desactivar la pestaña %s Email de bienvenida"
+
+#: src/Settings.php:2891
+msgid "Turn Add %1$s as %2$s tab On or Off"
+msgstr "Activar o desactivar la pestaña Añadir %1$s como %2$s"
+
+#: src/Settings.php:3009
+msgid "Turn Add %s button On or Off"
+msgstr "Activar o desactivar el botón Añadir %s"
+
+#: src/Settings.php:2757 src/Settings.php:2869
+msgid "Turn Add %s tab On or Off"
+msgstr "Activar o desactivar la pestaña Añadir %s"
+
+#: src/Settings.php:3071
+msgid "Turn Broadcast Email tab On or Off"
+msgstr "Activar o desactivar la pestaña Difusión de correo electrónico"
+
+#: src/Settings.php:3142
+msgid "Turn change Password button On or Off"
+msgstr "Activar o desactivar el botón Cambiar contraseña"
+
+#: src/Settings.php:2778 src/Settings.php:3203
+msgid "Turn Delete %s icon On or Off"
+msgstr "Activar o desactivar el icono Borrar %s"
+
+#: src/Settings.php:2915
+msgid "Turn Delete %s trashcan icon On or Off"
+msgstr "Activar o desactivar el icono de la papelera Delete %s"
+
+#: src/Settings.php:3129
+msgid "Turn Edit %s button On or Off"
+msgstr "Activar o desactivar el botón Editar %s"
+
+#: src/Settings.php:3040
+msgid "Turn Email %s button On or Off"
+msgstr "Activar o desactivar el botón Email %s"
+
+#: src/Settings.php:2969 src/Settings.php:3154
+msgid "Turn Export %s level CSV button On or Off"
+msgstr "Activar o desactivar el botón Exportar CSV de nivel %s"
+
+#: src/Settings.php:3022
+msgid "Turn Import List button On or Off"
+msgstr "Activar o desactivar el botón Importar lista"
+
+#: src/Settings.php:3243
+msgid "Turn Lock column in Detailed %s Report On or Off"
+msgstr "Activar o desactivar la columna Bloquear en el informe detallado %s"
+
+#: src/Settings.php:2647 src/Settings.php:2819
+msgid "Turn Manage %s button On or Off"
+msgstr "Activar o desactivar el botón Manage %s"
+
+#: src/Settings.php:2736
+msgid "Turn Manage %s tab On or Off"
+msgstr "Activar o desactivar la pestaña Gestionar %s"
+
+#: src/Settings.php:2832
+msgid "Turn Manage Courses button On or Off"
+msgstr "Activar o desactivar el botón Gestionar cursos"
+
+#: src/Settings.php:2936
+msgid "Turn Permanently Delete %s person-X icon On or Off"
+msgstr "Activar o desactivar el icono Eliminar permanentemente %s persona-X"
+
+#: src/Settings.php:3188
+msgid "Turn Remove %s icon On or Off"
+msgstr "Activar o desactivar el icono Eliminar %s"
+
+#: src/Plugin.php:3511
+msgid "Type"
+msgstr "Tipo"
+
+#: src/resources/templates/team-member/edit-team-member.php:20
+msgid "Update %s"
+msgstr "Actualizar %s"
+
+#: src/Settings.php:1329
+msgid "Upgrade LearnDash %1$s to %2$s"
+msgstr "Actualizar LearnDash %1$s a %2$s"
+
+#: src/resources/templates/team-member/import-team-member.php:45
+msgid "Upload File:"
+msgstr "Cargar archivo:"
+
+#: src/Settings.php:2529 src/Settings.php:2566
+msgid "Upload image"
+msgstr "Cargar imagen"
+
+#: src/Settings.php:1891
+msgid ""
+"Upload the \"%1$stemplate-learndash-groups-plus.php%2$s\" file to your "
+"%3$schild-theme/learndash/groups-plus/%4$s folder when you have completed "
+"your code level changes."
+msgstr ""
+"Suba el archivo \"%1$stemplate-learndash-groups-plus.php%2$s\" a su carpeta "
+"%3$schild-theme/learndash/groups-plus/%4$s cuando haya completado los "
+"cambios a nivel de código."
+
+#: src/Settings.php:674
+msgid "Use Shortcodes"
+msgstr "Utilizar códigos cortos"
+
+#: src/Settings.php:133 src/Settings.php:336
+msgid "Use UnCanny Group seats at will"
+msgstr "Utilice los asientos del Grupo UnCanny a voluntad"
+
+#: src/Settings.php:1289
+msgid "Use uncanny group seats at will:"
+msgstr "Utiliza a tu antojo los asientos de grupo:"
+
+#: src/Plugin.php:3778 src/Plugin.php:3844
+msgid "use your current password"
+msgstr "utilice su contraseña actual"
+
+#: src/Plugin.php:2964
+msgid "User Roles"
+msgstr "Funciones de los usuarios"
+
+#: src/resources/templates/team-member/listing.php:25
+#: src/resources/templates/team/modal.php:536
+#: src/resources/templates/team/modal.php:676
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: src/Plugin.php:1218
+msgid "Username %s exists"
+msgstr "El nombre de usuario %s existe"
+
+#: src/resources/templates/team-member/add-team-member.php:88
+#: src/resources/templates/team-member/ajax/edit-team-member.php:30
+msgid "Username *"
+msgstr "Nombre de usuario *"
+
+#: src/Plugin.php:2290
+msgid "Username already used"
+msgstr "Nombre de usuario ya utilizado"
+
+#: src/Plugin.php:1240 src/Plugin.php:1487
+msgid "Username field is required."
+msgstr "El campo Nombre de usuario es obligatorio."
+
+#: src/Plugin.php:2597 src/Plugin.php:2784
+msgid "Username is required"
+msgstr "Nombre de usuario obligatorio"
+
+#: src/Plugin.php:2284
+msgid "Username is required and at least 3 letters."
+msgstr "El nombre de usuario es obligatorio y debe tener al menos 3 letras."
+
+#: src/Settings.php:1045
+msgid "Users"
+msgstr "Usuarios"
+
+#: src/Settings.php:909
+msgid ""
+"Using this integration, you can enhance the LearnDash Assignment approval "
+"process by using Gravity Forms in the workflow.%1$sYou do not need to use "
+"any other Gravity Forms related plugin for this process. Any other Gravity "
+"Forms related plugin can be used to enhance this process further but those "
+"plugins will be applicable to whatever you do in Gravity Forms alone."
+msgstr ""
+"Mediante esta integración, puede mejorar el proceso de aprobación de "
+"asignaciones de LearnDash utilizando Gravity Forms en el flujo de trabajo."
+"%1$sNo es necesario utilizar ningún otro plugin relacionado con Gravity "
+"Forms para este proceso. Cualquier otro plugin relacionado con Gravity Forms "
+"se puede utilizar para mejorar este proceso aún más, pero esos plugins serán "
+"aplicables a lo que hagas en Gravity Forms solo."
+
+#: src/Settings.php:1904
+msgid ""
+"Visit the /learndash-groups-plus/ page in your website to view your changes."
+msgstr ""
+"Visite la página /learndash-groups-plus/ de su sitio web para ver los "
+"cambios."
+
+#: src/Settings.php:2000
+msgid ""
+"Visit the /learndash-groups-plus/ page or any page with the Groups Plus "
+"shortcodes, in your website to view your changes."
+msgstr ""
+"Visita la página /learndash-groups-plus/ o cualquier página con los "
+"shortcodes de Groups Plus, en tu sitio web para ver tus cambios."
+
+#. translators: HTML tags.
+#: src/Plugin.php:435
+msgid ""
+"Warning: LearnDash LMS - Groups Plus requires LearnDash Group Hierarchy "
+"setting enabled to make it working as expected. %sClick here to enable%s"
+msgstr ""
+"Advertencia: LearnDash LMS - Groups Plus requiere que la configuración de "
+"LearnDash Group Hierarchy esté habilitada para que funcione como se espera. "
+"%sHaga clic aquí para habilitar%s"
+
+#. translators: HTML markup for link.
+#: src/Module/Migration.php:286
+msgid ""
+"We've detected the site used LearnDash Classroom addon. %1$sClick here%2$s "
+"to start the migration process. Make sure to back up the site first because "
+"the process is irreversible."
+msgstr ""
+"Hemos detectado que el sitio utiliza el addon LearnDash Classroom. %1$sHaga "
+"clic aquí%2$s para iniciar el proceso de migración. Asegúrese de hacer "
+"primero una copia de seguridad del sitio porque el proceso es irreversible."
+
+#: src/Settings.php:2108
+msgid "What are hooks?"
+msgstr "¿Qué son los ganchos?"
+
+#: src/Settings.php:1029
+msgid ""
+"With this feature, you also now have new Design controls in the \"%1$s "
+"Detailed Report settings\" section of your Design tab above."
+msgstr ""
+"Con esta función, ahora también dispone de nuevos controles de diseño en la "
+"sección \"%1$s Ajustes detallados del informe\" de la pestaña Diseño "
+"anterior."
+
+#: src/Settings.php:1193
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. translators: organization label.
+#: src/Plugin.php:3558 src/Plugin.php:3571
+msgid "WooCommerce %s template"
+msgstr "Plantilla WooCommerce %s"
+
+#: src/Module/WooCommerce/Organizations_Groups.php:2128
+msgid "WooCommerce Enabled?"
+msgstr "¿WooCommerce habilitado?"
+
+#: src/Settings.php:2475
+msgid "WooCommerce Product Page"
+msgstr "Página de producto WooCommerce"
+
+#: src/resources/templates/template-learndash-groups-plus.php:66
+msgid "You are not a part of any Groups yet."
+msgstr "Aún no formas parte de ningún Grupo."
+
+#: src/Settings.php:677
+msgid ""
+"You can add the %1$s shortcode into any page or post in your site to have "
+"the full administration area for %2$s%3$s%4$s or %5$s%6$s%7$s."
+msgstr ""
+"Puede añadir el shortcode %1$s en cualquier página o post de su sitio para "
+"tener el área de administración completa para %2$s%3$s%4$s o %5$s%6$s%7$s."
+
+#: src/Settings.php:1833
+msgid ""
+"You can also turn off sections, areas, and even specific buttons and tabs in "
+"%s using the Design tab settings provided above."
+msgstr ""
+"También puede desactivar secciones, áreas e incluso botones y pestañas "
+"específicos en %s utilizando la configuración de la pestaña Diseño "
+"proporcionada anteriormente."
+
+#: src/Settings.php:1989
+msgid ""
+"You can download these files (%1$sand create copies of them for backup "
+"purposes%2$s) to edit them on your local computer, then upload them into "
+"your child-theme/learndash/groups-plus/ sub-folder structure when you have "
+"completed your changes."
+msgstr ""
+"Puede descargar estos archivos (%1$sy crear copias de los mismos con fines "
+"de copia de seguridad%2$s) para editarlos en su ordenador local y, a "
+"continuación, cargarlos en su estructura de subcarpetas child-"
+"theme/learndash/groups-plus/ cuando haya completado los cambios."
+
+#: src/Settings.php:989
+msgid ""
+"You can now duplicate the form and add in your own fields or recreate the "
+"form fields provided in an existing form."
+msgstr ""
+"Ahora puede duplicar el formulario y añadir sus propios campos o recrear los "
+"campos de un formulario existente."
+
+#: src/Settings.php:408
+msgid ""
+"You can use the LearnDash Certificate shortcode to override this setting in "
+"case you prefer to have some exclusions with this setting enabled."
+msgstr ""
+"Puedes utilizar el shortcode Certificado de LearnDash para anular esta "
+"configuración en caso de que prefieras tener algunas exclusiones con esta "
+"configuración activada."
+
+#: src/resources/templates/template-learndash-groups-plus-group.php:65
+msgid "You don't have access of this group."
+msgstr "No tienes acceso a este grupo."
+
+#: src/Plugin.php:1684 src/Plugin.php:2275 src/Plugin.php:2421
+#: src/Plugin.php:2487 src/Plugin.php:2506
+msgid "You don't have permission for this"
+msgstr "No tienes permiso para esto"
+
+#: src/Plugin.php:628
+msgid "You must be logged in to see the this report."
+msgstr "Debe iniciar sesión para ver este informe."
+
+#: src/Plugin.php:3972
+msgid "You must be logged in to see this messages."
+msgstr "Debes estar conectado para ver estos mensajes."
+
+#: src/Plugin.php:517 src/Plugin.php:573 src/Plugin.php:668
+msgid "You must be logged in to see this report."
+msgstr "Debe iniciar sesión para ver este informe."
+
+#: src/Plugin.php:498
+msgid "You must be logged in to use this tool."
+msgstr "Debe iniciar sesión para utilizar esta herramienta."
+
+#: src/Plugin.php:1224 src/Plugin.php:1464
+msgid ""
+"You must check %1$s already exists option if you want to set existing user "
+"as %2$s."
+msgstr ""
+"Debe marcar la opción %1$s ya existe si desea establecer el usuario "
+"existente como %2$s."
+
+#: src/Plugin.php:1232 src/Plugin.php:1472
+msgid "You must set existing %1$s for the %2$s."
+msgstr "Debe establecer %1$s existentes para el %2$s."
+
+#: src/Settings.php:351
+msgid "You will be able to use a mix of %1$s %2$s and UnCanny groups."
+msgstr "Podrá utilizar una mezcla de grupos %1$s %2$s y UnCanny."
+
+#: src/Settings.php:1846
+msgid ""
+"You will first need to have a child-theme setup, activated, and properly "
+"functioning in your site. Once you have done this, you will want to use an "
+"FTP client software to upload your edited code to that child-theme sub-"
+"folder."
+msgstr ""
+"Primero necesitarás tener un tema hijo configurado, activado y funcionando "
+"correctamente en tu sitio. Una vez que haya hecho esto, usted querrá "
+"utilizar un software de cliente FTP para cargar el código editado a la "
+"subcarpeta de ese tema hijo."
